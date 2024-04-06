@@ -1,0 +1,1001 @@
+_id,departamento_id,departamento_nombre,provincia_id,provincia_nombre,año,semanas_epidemiologicas,evento_nombre,grupo_edad_id,grupo_edad_desc,cantidad_casos
+1,22140,San Fernando,22,Chaco,2021,18,Dengue,0,Neonato (hasta 28 dias),1
+2,34035,Patiño,34,Formosa,2021,6,Dengue,1,Posneonato (29 hasta 365 dias),1
+3,34035,Patiño,34,Formosa,2021,8,Dengue,1,Posneonato (29 hasta 365 dias),1
+4,34035,Patiño,34,Formosa,2021,10,Dengue,1,Posneonato (29 hasta 365 dias),1
+5,46014,Capital,46,La Rioja,2021,12,Dengue,1,Posneonato (29 hasta 365 dias),1
+6,54063,Iguazú,54,Misiones,2021,6,Dengue,1,Posneonato (29 hasta 365 dias),1
+7,66007,Anta,66,Salta,2021,11,Dengue,1,Posneonato (29 hasta 365 dias),1
+8,66007,Anta,66,Salta,2021,16,Dengue,1,Posneonato (29 hasta 365 dias),1
+9,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,1,Posneonato (29 hasta 365 dias),1
+10,66126,Orán,66,Salta,2021,17,Dengue,1,Posneonato (29 hasta 365 dias),1
+11,66126,Orán,66,Salta,2021,18,Dengue,1,Posneonato (29 hasta 365 dias),1
+12,34035,Patiño,34,Formosa,2021,10,Dengue,2,De 13 a 24 meses,1
+13,46014,Capital,46,La Rioja,2021,9,Dengue,2,De 13 a 24 meses,1
+14,66007,Anta,66,Salta,2021,14,Dengue,2,De 13 a 24 meses,1
+15,66056,Grl. José de San Martín,66,Salta,2021,7,Dengue,2,De 13 a 24 meses,1
+16,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,2,De 13 a 24 meses,1
+17,66126,Orán,66,Salta,2021,18,Dengue,2,De 13 a 24 meses,1
+18,66126,Orán,66,Salta,2021,19,Dengue,2,De 13 a 24 meses,1
+19,30028,Federación,30,Entre Ríos,2021,16,Dengue,3,De 2 a 4 anos,1
+20,34035,Patiño,34,Formosa,2021,6,Dengue,3,De 2 a 4 anos,1
+21,34035,Patiño,34,Formosa,2021,8,Dengue,3,De 2 a 4 anos,1
+22,34035,Patiño,34,Formosa,2021,10,Dengue,3,De 2 a 4 anos,1
+23,38035,Ledesma,38,Jujuy,2021,17,Dengue,3,De 2 a 4 anos,1
+24,46014,Capital,46,La Rioja,2021,10,Dengue,3,De 2 a 4 anos,1
+25,46014,Capital,46,La Rioja,2021,15,Dengue,3,De 2 a 4 anos,2
+26,46014,Capital,46,La Rioja,2021,21,Dengue,3,De 2 a 4 anos,1
+27,54028,Capital,54,Misiones,2021,10,Dengue,3,De 2 a 4 anos,2
+28,54028,Capital,54,Misiones,2021,12,Dengue,3,De 2 a 4 anos,1
+29,66007,Anta,66,Salta,2021,13,Dengue,3,De 2 a 4 anos,1
+30,66007,Anta,66,Salta,2021,15,Dengue,3,De 2 a 4 anos,1
+31,66056,Grl. José de San Martín,66,Salta,2021,6,Dengue,3,De 2 a 4 anos,1
+32,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,3,De 2 a 4 anos,2
+33,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,3,De 2 a 4 anos,1
+34,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,3,De 2 a 4 anos,1
+35,66056,Grl. José de San Martín,66,Salta,2021,13,Dengue,3,De 2 a 4 anos,1
+36,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,3,De 2 a 4 anos,1
+37,66056,Grl. José de San Martín,66,Salta,2021,17,Dengue,3,De 2 a 4 anos,1
+38,66126,Orán,66,Salta,2021,11,Dengue,3,De 2 a 4 anos,2
+39,66126,Orán,66,Salta,2021,15,Dengue,3,De 2 a 4 anos,3
+40,66126,Orán,66,Salta,2021,16,Dengue,3,De 2 a 4 anos,4
+41,66126,Orán,66,Salta,2021,17,Dengue,3,De 2 a 4 anos,4
+42,66126,Orán,66,Salta,2021,19,Dengue,3,De 2 a 4 anos,1
+43,66126,Orán,66,Salta,2021,22,Dengue,3,De 2 a 4 anos,1
+44,66133,Rivadavia,66,Salta,2021,16,Dengue,3,De 2 a 4 anos,1
+45,66133,Rivadavia,66,Salta,2021,18,Dengue,3,De 2 a 4 anos,2
+46,66539,Merlo,6,Buenos Aires,2021,13,Dengue,4,De 5 a 9 anos,1
+47,30028,Federación,30,Entre Ríos,2021,17,Dengue,4,De 5 a 9 anos,1
+48,34035,Patiño,34,Formosa,2021,5,Dengue,4,De 5 a 9 anos,4
+49,34035,Patiño,34,Formosa,2021,6,Dengue,4,De 5 a 9 anos,2
+50,34035,Patiño,34,Formosa,2021,7,Dengue,4,De 5 a 9 anos,2
+51,34035,Patiño,34,Formosa,2021,8,Dengue,4,De 5 a 9 anos,1
+52,34035,Patiño,34,Formosa,2021,10,Dengue,4,De 5 a 9 anos,5
+53,34035,Patiño,34,Formosa,2021,11,Dengue,4,De 5 a 9 anos,2
+54,34035,Patiño,34,Formosa,2021,13,Dengue,4,De 5 a 9 anos,1
+55,38035,Ledesma,38,Jujuy,2021,14,Dengue,4,De 5 a 9 anos,1
+56,38035,Ledesma,38,Jujuy,2021,15,Dengue,4,De 5 a 9 anos,1
+57,38035,Ledesma,38,Jujuy,2021,16,Dengue,4,De 5 a 9 anos,3
+58,38035,Ledesma,38,Jujuy,2021,17,Dengue,4,De 5 a 9 anos,2
+59,38035,Ledesma,38,Jujuy,2021,22,Dengue,4,De 5 a 9 anos,1
+60,38070,Santa Bárbara,38,Jujuy,2021,17,Dengue,4,De 5 a 9 anos,2
+61,38070,Santa Bárbara,38,Jujuy,2021,18,Dengue,4,De 5 a 9 anos,1
+62,38070,Santa Bárbara,38,Jujuy,2021,20,Dengue,4,De 5 a 9 anos,1
+63,38070,Santa Bárbara,38,Jujuy,2021,21,Dengue,4,De 5 a 9 anos,1
+64,38070,Santa Bárbara,38,Jujuy,2021,23,Dengue,4,De 5 a 9 anos,1
+65,46014,Capital,46,La Rioja,2021,9,Dengue,4,De 5 a 9 anos,1
+66,46014,Capital,46,La Rioja,2021,10,Dengue,4,De 5 a 9 anos,2
+67,46014,Capital,46,La Rioja,2021,11,Dengue,4,De 5 a 9 anos,2
+68,46014,Capital,46,La Rioja,2021,12,Dengue,4,De 5 a 9 anos,1
+69,46014,Capital,46,La Rioja,2021,13,Dengue,4,De 5 a 9 anos,1
+70,46014,Capital,46,La Rioja,2021,15,Dengue,4,De 5 a 9 anos,4
+71,46014,Capital,46,La Rioja,2021,16,Dengue,4,De 5 a 9 anos,3
+72,46014,Capital,46,La Rioja,2021,17,Dengue,4,De 5 a 9 anos,3
+73,46014,Capital,46,La Rioja,2021,18,Dengue,4,De 5 a 9 anos,4
+74,46014,Capital,46,La Rioja,2021,19,Dengue,4,De 5 a 9 anos,2
+75,46014,Capital,46,La Rioja,2021,20,Dengue,4,De 5 a 9 anos,2
+76,54028,Capital,54,Misiones,2021,4,Dengue,4,De 5 a 9 anos,1
+77,54028,Capital,54,Misiones,2021,7,Dengue,4,De 5 a 9 anos,1
+78,54028,Capital,54,Misiones,2021,12,Dengue,4,De 5 a 9 anos,2
+79,66007,Anta,66,Salta,2021,14,Dengue,4,De 5 a 9 anos,1
+80,66007,Anta,66,Salta,2021,16,Dengue,4,De 5 a 9 anos,2
+81,66007,Anta,66,Salta,2021,17,Dengue,4,De 5 a 9 anos,4
+82,66007,Anta,66,Salta,2021,18,Dengue,4,De 5 a 9 anos,1
+83,66007,Anta,66,Salta,2021,19,Dengue,4,De 5 a 9 anos,1
+84,66007,Anta,66,Salta,2021,22,Dengue,4,De 5 a 9 anos,1
+85,66028,Capital,66,Salta,2021,13,Dengue,4,De 5 a 9 anos,1
+86,66056,Grl. José de San Martín,66,Salta,2021,7,Dengue,4,De 5 a 9 anos,1
+87,66056,Grl. José de San Martín,66,Salta,2021,8,Dengue,4,De 5 a 9 anos,1
+88,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,4,De 5 a 9 anos,4
+89,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,4,De 5 a 9 anos,6
+90,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,4,De 5 a 9 anos,1
+91,66056,Grl. José de San Martín,66,Salta,2021,13,Dengue,4,De 5 a 9 anos,3
+92,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,4,De 5 a 9 anos,4
+93,66056,Grl. José de San Martín,66,Salta,2021,21,Dengue,4,De 5 a 9 anos,1
+94,66077,La Caldera,66,Salta,2021,9,Dengue,4,De 5 a 9 anos,1
+95,66126,Orán,66,Salta,2021,3,Dengue,4,De 5 a 9 anos,2
+96,66126,Orán,66,Salta,2021,4,Dengue,4,De 5 a 9 anos,2
+97,66126,Orán,66,Salta,2021,5,Dengue,4,De 5 a 9 anos,1
+98,66126,Orán,66,Salta,2021,6,Dengue,4,De 5 a 9 anos,1
+99,66126,Orán,66,Salta,2021,7,Dengue,4,De 5 a 9 anos,2
+100,66126,Orán,66,Salta,2021,8,Dengue,4,De 5 a 9 anos,2
+101,66126,Orán,66,Salta,2021,9,Dengue,4,De 5 a 9 anos,1
+102,66126,Orán,66,Salta,2021,10,Dengue,4,De 5 a 9 anos,3
+103,66126,Orán,66,Salta,2021,11,Dengue,4,De 5 a 9 anos,3
+104,66126,Orán,66,Salta,2021,12,Dengue,4,De 5 a 9 anos,2
+105,66126,Orán,66,Salta,2021,13,Dengue,4,De 5 a 9 anos,2
+106,66126,Orán,66,Salta,2021,14,Dengue,4,De 5 a 9 anos,3
+107,66126,Orán,66,Salta,2021,15,Dengue,4,De 5 a 9 anos,5
+108,66126,Orán,66,Salta,2021,16,Dengue,4,De 5 a 9 anos,5
+109,66126,Orán,66,Salta,2021,17,Dengue,4,De 5 a 9 anos,3
+110,66126,Orán,66,Salta,2021,18,Dengue,4,De 5 a 9 anos,8
+111,66126,Orán,66,Salta,2021,19,Dengue,4,De 5 a 9 anos,6
+112,66126,Orán,66,Salta,2021,20,Dengue,4,De 5 a 9 anos,2
+113,66126,Orán,66,Salta,2021,21,Dengue,4,De 5 a 9 anos,1
+114,66126,Orán,66,Salta,2021,22,Dengue,4,De 5 a 9 anos,2
+115,66126,Orán,66,Salta,2021,23,Dengue,4,De 5 a 9 anos,1
+116,66133,Rivadavia,66,Salta,2021,11,Dengue,4,De 5 a 9 anos,1
+117,66133,Rivadavia,66,Salta,2021,18,Dengue,4,De 5 a 9 anos,1
+118,66133,Rivadavia,66,Salta,2021,19,Dengue,4,De 5 a 9 anos,1
+119,74056,La Capital,74,San Luis,2021,10,Dengue,4,De 5 a 9 anos,1
+120,18021,Capital,18,Corrientes,2021,14,Dengue,5,De 10 a 14 anos,1
+121,30028,Federación,30,Entre Ríos,2021,17,Dengue,5,De 10 a 14 anos,1
+122,34035,Patiño,34,Formosa,2021,2,Dengue,5,De 10 a 14 anos,1
+123,34035,Patiño,34,Formosa,2021,4,Dengue,5,De 10 a 14 anos,2
+124,34035,Patiño,34,Formosa,2021,5,Dengue,5,De 10 a 14 anos,2
+125,34035,Patiño,34,Formosa,2021,6,Dengue,5,De 10 a 14 anos,2
+126,34035,Patiño,34,Formosa,2021,7,Dengue,5,De 10 a 14 anos,2
+127,34035,Patiño,34,Formosa,2021,8,Dengue,5,De 10 a 14 anos,3
+128,34035,Patiño,34,Formosa,2021,10,Dengue,5,De 10 a 14 anos,3
+129,34035,Patiño,34,Formosa,2021,11,Dengue,5,De 10 a 14 anos,1
+130,38014,El Carmen,38,Jujuy,2021,13,Dengue,5,De 10 a 14 anos,2
+131,38035,Ledesma,38,Jujuy,2021,11,Dengue,5,De 10 a 14 anos,1
+132,38035,Ledesma,38,Jujuy,2021,14,Dengue,5,De 10 a 14 anos,1
+133,38035,Ledesma,38,Jujuy,2021,15,Dengue,5,De 10 a 14 anos,2
+134,38035,Ledesma,38,Jujuy,2021,16,Dengue,5,De 10 a 14 anos,6
+135,38035,Ledesma,38,Jujuy,2021,17,Dengue,5,De 10 a 14 anos,5
+136,38035,Ledesma,38,Jujuy,2021,19,Dengue,5,De 10 a 14 anos,1
+137,38035,Ledesma,38,Jujuy,2021,21,Dengue,5,De 10 a 14 anos,1
+138,38035,Ledesma,38,Jujuy,2021,22,Dengue,5,De 10 a 14 anos,1
+139,38035,Ledesma,38,Jujuy,2021,24,Dengue,5,De 10 a 14 anos,1
+140,38070,Santa Bárbara,38,Jujuy,2021,16,Dengue,5,De 10 a 14 anos,1
+141,38070,Santa Bárbara,38,Jujuy,2021,18,Dengue,5,De 10 a 14 anos,2
+142,38070,Santa Bárbara,38,Jujuy,2021,19,Dengue,5,De 10 a 14 anos,1
+143,38070,Santa Bárbara,38,Jujuy,2021,21,Dengue,5,De 10 a 14 anos,2
+144,46014,Capital,46,La Rioja,2021,7,Dengue,5,De 10 a 14 anos,1
+145,46014,Capital,46,La Rioja,2021,8,Dengue,5,De 10 a 14 anos,1
+146,46014,Capital,46,La Rioja,2021,9,Dengue,5,De 10 a 14 anos,3
+147,46014,Capital,46,La Rioja,2021,10,Dengue,5,De 10 a 14 anos,2
+148,46014,Capital,46,La Rioja,2021,11,Dengue,5,De 10 a 14 anos,5
+149,46014,Capital,46,La Rioja,2021,12,Dengue,5,De 10 a 14 anos,4
+150,46014,Capital,46,La Rioja,2021,13,Dengue,5,De 10 a 14 anos,6
+151,46014,Capital,46,La Rioja,2021,14,Dengue,5,De 10 a 14 anos,7
+152,46014,Capital,46,La Rioja,2021,15,Dengue,5,De 10 a 14 anos,8
+153,46014,Capital,46,La Rioja,2021,16,Dengue,5,De 10 a 14 anos,8
+154,46014,Capital,46,La Rioja,2021,17,Dengue,5,De 10 a 14 anos,6
+155,46014,Capital,46,La Rioja,2021,18,Dengue,5,De 10 a 14 anos,9
+156,46014,Capital,46,La Rioja,2021,19,Dengue,5,De 10 a 14 anos,6
+157,46014,Capital,46,La Rioja,2021,20,Dengue,5,De 10 a 14 anos,2
+158,46014,Capital,46,La Rioja,2021,21,Dengue,5,De 10 a 14 anos,2
+159,54028,Capital,54,Misiones,2021,4,Dengue,5,De 10 a 14 anos,1
+160,54028,Capital,54,Misiones,2021,6,Dengue,5,De 10 a 14 anos,1
+161,54028,Capital,54,Misiones,2021,12,Dengue,5,De 10 a 14 anos,1
+162,54028,Capital,54,Misiones,2021,13,Dengue,5,De 10 a 14 anos,2
+163,54042,Eldorado,54,Misiones,2021,16,Dengue,5,De 10 a 14 anos,1
+164,54063,Iguazú,54,Misiones,2021,18,Dengue,5,De 10 a 14 anos,1
+165,54098,San Ignacio,54,Misiones,2021,15,Dengue,5,De 10 a 14 anos,1
+166,66007,Anta,66,Salta,2021,10,Dengue,5,De 10 a 14 anos,1
+167,66007,Anta,66,Salta,2021,11,Dengue,5,De 10 a 14 anos,1
+168,66007,Anta,66,Salta,2021,14,Dengue,5,De 10 a 14 anos,3
+169,66007,Anta,66,Salta,2021,16,Dengue,5,De 10 a 14 anos,2
+170,66007,Anta,66,Salta,2021,17,Dengue,5,De 10 a 14 anos,1
+171,66007,Anta,66,Salta,2021,18,Dengue,5,De 10 a 14 anos,1
+172,66007,Anta,66,Salta,2021,19,Dengue,5,De 10 a 14 anos,1
+173,66007,Anta,66,Salta,2021,21,Dengue,5,De 10 a 14 anos,1
+174,66007,Anta,66,Salta,2021,22,Dengue,5,De 10 a 14 anos,2
+175,66007,Anta,66,Salta,2021,23,Dengue,5,De 10 a 14 anos,3
+176,66028,Capital,66,Salta,2021,14,Dengue,5,De 10 a 14 anos,1
+177,66056,Grl. José de San Martín,66,Salta,2021,5,Dengue,5,De 10 a 14 anos,2
+178,66056,Grl. José de San Martín,66,Salta,2021,7,Dengue,5,De 10 a 14 anos,5
+179,66056,Grl. José de San Martín,66,Salta,2021,8,Dengue,5,De 10 a 14 anos,2
+180,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,5,De 10 a 14 anos,4
+181,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,5,De 10 a 14 anos,9
+182,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,5,De 10 a 14 anos,9
+183,66056,Grl. José de San Martín,66,Salta,2021,12,Dengue,5,De 10 a 14 anos,1
+184,66056,Grl. José de San Martín,66,Salta,2021,13,Dengue,5,De 10 a 14 anos,2
+185,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,5,De 10 a 14 anos,5
+186,66056,Grl. José de San Martín,66,Salta,2021,17,Dengue,5,De 10 a 14 anos,1
+187,66056,Grl. José de San Martín,66,Salta,2021,19,Dengue,5,De 10 a 14 anos,1
+188,66056,Grl. José de San Martín,66,Salta,2021,22,Dengue,5,De 10 a 14 anos,1
+189,66126,Orán,66,Salta,2021,1,Dengue,5,De 10 a 14 anos,1
+190,66126,Orán,66,Salta,2021,4,Dengue,5,De 10 a 14 anos,4
+191,66126,Orán,66,Salta,2021,5,Dengue,5,De 10 a 14 anos,1
+192,66126,Orán,66,Salta,2021,7,Dengue,5,De 10 a 14 anos,2
+193,66126,Orán,66,Salta,2021,8,Dengue,5,De 10 a 14 anos,1
+194,66126,Orán,66,Salta,2021,9,Dengue,5,De 10 a 14 anos,1
+195,66126,Orán,66,Salta,2021,10,Dengue,5,De 10 a 14 anos,3
+196,66126,Orán,66,Salta,2021,11,Dengue,5,De 10 a 14 anos,4
+197,66126,Orán,66,Salta,2021,12,Dengue,5,De 10 a 14 anos,8
+198,66126,Orán,66,Salta,2021,13,Dengue,5,De 10 a 14 anos,9
+199,66126,Orán,66,Salta,2021,14,Dengue,5,De 10 a 14 anos,5
+200,66126,Orán,66,Salta,2021,15,Dengue,5,De 10 a 14 anos,8
+201,66126,Orán,66,Salta,2021,16,Dengue,5,De 10 a 14 anos,17
+202,66126,Orán,66,Salta,2021,17,Dengue,5,De 10 a 14 anos,15
+203,66126,Orán,66,Salta,2021,18,Dengue,5,De 10 a 14 anos,16
+204,66126,Orán,66,Salta,2021,19,Dengue,5,De 10 a 14 anos,8
+205,66126,Orán,66,Salta,2021,20,Dengue,5,De 10 a 14 anos,2
+206,66126,Orán,66,Salta,2021,21,Dengue,5,De 10 a 14 anos,5
+207,66126,Orán,66,Salta,2021,22,Dengue,5,De 10 a 14 anos,3
+208,66133,Rivadavia,66,Salta,2021,10,Dengue,5,De 10 a 14 anos,1
+209,66133,Rivadavia,66,Salta,2021,11,Dengue,5,De 10 a 14 anos,1
+210,66133,Rivadavia,66,Salta,2021,15,Dengue,5,De 10 a 14 anos,1
+211,66133,Rivadavia,66,Salta,2021,16,Dengue,5,De 10 a 14 anos,3
+212,66133,Rivadavia,66,Salta,2021,18,Dengue,5,De 10 a 14 anos,2
+213,66133,Rivadavia,66,Salta,2021,19,Dengue,5,De 10 a 14 anos,2
+214,66133,Rivadavia,66,Salta,2021,20,Dengue,5,De 10 a 14 anos,1
+215,66133,Rivadavia,66,Salta,2021,21,Dengue,5,De 10 a 14 anos,1
+216,66133,Rivadavia,66,Salta,2021,22,Dengue,5,De 10 a 14 anos,1
+217,82091,San Cristóbal,82,Santa Fe,2021,12,Dengue,5,De 10 a 14 anos,1
+218,90084,Capital,90,Tucumán,2021,16,Dengue,5,De 10 a 14 anos,1
+219,90084,Capital,90,Tucumán,2021,18,Dengue,5,De 10 a 14 anos,1
+220,90084,Capital,90,Tucumán,2021,24,Dengue,5,De 10 a 14 anos,1
+221,22006,COMUNA 6,2,CABA,2021,10,Dengue,6,De 15 a 19 anos,1
+222,66648,Presidente Perón,6,Buenos Aires,2021,12,Dengue,6,De 15 a 19 anos,1
+223,14014,Capital,14,Córdoba,2021,18,Dengue,6,De 15 a 19 anos,1
+224,18021,Capital,18,Corrientes,2021,11,Dengue,6,De 15 a 19 anos,1
+225,30028,Federación,30,Entre Ríos,2021,13,Dengue,6,De 15 a 19 anos,1
+226,34035,Patiño,34,Formosa,2021,1,Dengue,6,De 15 a 19 anos,1
+227,34035,Patiño,34,Formosa,2021,2,Dengue,6,De 15 a 19 anos,2
+228,34035,Patiño,34,Formosa,2021,3,Dengue,6,De 15 a 19 anos,2
+229,34035,Patiño,34,Formosa,2021,4,Dengue,6,De 15 a 19 anos,4
+230,34035,Patiño,34,Formosa,2021,5,Dengue,6,De 15 a 19 anos,3
+231,34035,Patiño,34,Formosa,2021,6,Dengue,6,De 15 a 19 anos,2
+232,34035,Patiño,34,Formosa,2021,8,Dengue,6,De 15 a 19 anos,6
+233,34035,Patiño,34,Formosa,2021,10,Dengue,6,De 15 a 19 anos,2
+234,38014,El Carmen,38,Jujuy,2021,14,Dengue,6,De 15 a 19 anos,2
+235,38014,El Carmen,38,Jujuy,2021,16,Dengue,6,De 15 a 19 anos,1
+236,38035,Ledesma,38,Jujuy,2021,10,Dengue,6,De 15 a 19 anos,1
+237,38035,Ledesma,38,Jujuy,2021,11,Dengue,6,De 15 a 19 anos,1
+238,38035,Ledesma,38,Jujuy,2021,12,Dengue,6,De 15 a 19 anos,3
+239,38035,Ledesma,38,Jujuy,2021,13,Dengue,6,De 15 a 19 anos,2
+240,38035,Ledesma,38,Jujuy,2021,14,Dengue,6,De 15 a 19 anos,2
+241,38035,Ledesma,38,Jujuy,2021,15,Dengue,6,De 15 a 19 anos,2
+242,38035,Ledesma,38,Jujuy,2021,16,Dengue,6,De 15 a 19 anos,3
+243,38035,Ledesma,38,Jujuy,2021,17,Dengue,6,De 15 a 19 anos,5
+244,38035,Ledesma,38,Jujuy,2021,19,Dengue,6,De 15 a 19 anos,1
+245,38035,Ledesma,38,Jujuy,2021,20,Dengue,6,De 15 a 19 anos,1
+246,38035,Ledesma,38,Jujuy,2021,23,Dengue,6,De 15 a 19 anos,1
+247,38070,Santa Bárbara,38,Jujuy,2021,15,Dengue,6,De 15 a 19 anos,1
+248,38070,Santa Bárbara,38,Jujuy,2021,17,Dengue,6,De 15 a 19 anos,3
+249,38070,Santa Bárbara,38,Jujuy,2021,20,Dengue,6,De 15 a 19 anos,1
+250,38070,Santa Bárbara,38,Jujuy,2021,22,Dengue,6,De 15 a 19 anos,2
+251,38070,Santa Bárbara,38,Jujuy,2021,23,Dengue,6,De 15 a 19 anos,2
+252,42035,Conhelo,42,La Pampa,2021,10,Dengue,6,De 15 a 19 anos,1
+253,46014,Capital,46,La Rioja,2021,6,Dengue,6,De 15 a 19 anos,1
+254,46014,Capital,46,La Rioja,2021,7,Dengue,6,De 15 a 19 anos,1
+255,46014,Capital,46,La Rioja,2021,8,Dengue,6,De 15 a 19 anos,3
+256,46014,Capital,46,La Rioja,2021,9,Dengue,6,De 15 a 19 anos,1
+257,46014,Capital,46,La Rioja,2021,10,Dengue,6,De 15 a 19 anos,10
+258,46014,Capital,46,La Rioja,2021,11,Dengue,6,De 15 a 19 anos,8
+259,46014,Capital,46,La Rioja,2021,12,Dengue,6,De 15 a 19 anos,4
+260,46014,Capital,46,La Rioja,2021,13,Dengue,6,De 15 a 19 anos,3
+261,46014,Capital,46,La Rioja,2021,14,Dengue,6,De 15 a 19 anos,10
+262,46014,Capital,46,La Rioja,2021,15,Dengue,6,De 15 a 19 anos,11
+263,46014,Capital,46,La Rioja,2021,16,Dengue,6,De 15 a 19 anos,19
+264,46014,Capital,46,La Rioja,2021,17,Dengue,6,De 15 a 19 anos,13
+265,46014,Capital,46,La Rioja,2021,18,Dengue,6,De 15 a 19 anos,7
+266,46014,Capital,46,La Rioja,2021,19,Dengue,6,De 15 a 19 anos,7
+267,46014,Capital,46,La Rioja,2021,20,Dengue,6,De 15 a 19 anos,5
+268,46014,Capital,46,La Rioja,2021,21,Dengue,6,De 15 a 19 anos,3
+269,46021,Castro Barros,46,La Rioja,2021,15,Dengue,6,De 15 a 19 anos,1
+270,46063,General Belgrano,46,La Rioja,2021,18,Dengue,6,De 15 a 19 anos,1
+271,46112,Rosario Vera Peñaloza,46,La Rioja,2021,16,Dengue,6,De 15 a 19 anos,1
+272,54028,Capital,54,Misiones,2021,6,Dengue,6,De 15 a 19 anos,1
+273,54028,Capital,54,Misiones,2021,9,Dengue,6,De 15 a 19 anos,1
+274,54028,Capital,54,Misiones,2021,13,Dengue,6,De 15 a 19 anos,1
+275,54028,Capital,54,Misiones,2021,17,Dengue,6,De 15 a 19 anos,1
+276,54042,Eldorado,54,Misiones,2021,17,Dengue,6,De 15 a 19 anos,1
+277,54063,Iguazú,54,Misiones,2021,15,Dengue,6,De 15 a 19 anos,1
+278,66007,Anta,66,Salta,2021,11,Dengue,6,De 15 a 19 anos,1
+279,66007,Anta,66,Salta,2021,14,Dengue,6,De 15 a 19 anos,4
+280,66007,Anta,66,Salta,2021,15,Dengue,6,De 15 a 19 anos,3
+281,66007,Anta,66,Salta,2021,16,Dengue,6,De 15 a 19 anos,1
+282,66007,Anta,66,Salta,2021,17,Dengue,6,De 15 a 19 anos,1
+283,66007,Anta,66,Salta,2021,18,Dengue,6,De 15 a 19 anos,2
+284,66007,Anta,66,Salta,2021,21,Dengue,6,De 15 a 19 anos,4
+285,66007,Anta,66,Salta,2021,23,Dengue,6,De 15 a 19 anos,2
+286,66028,Capital,66,Salta,2021,17,Dengue,6,De 15 a 19 anos,1
+287,66056,Grl. José de San Martín,66,Salta,2021,2,Dengue,6,De 15 a 19 anos,1
+288,66056,Grl. José de San Martín,66,Salta,2021,7,Dengue,6,De 15 a 19 anos,2
+289,66056,Grl. José de San Martín,66,Salta,2021,8,Dengue,6,De 15 a 19 anos,5
+290,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,6,De 15 a 19 anos,3
+291,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,6,De 15 a 19 anos,6
+292,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,6,De 15 a 19 anos,2
+293,66056,Grl. José de San Martín,66,Salta,2021,12,Dengue,6,De 15 a 19 anos,2
+294,66056,Grl. José de San Martín,66,Salta,2021,13,Dengue,6,De 15 a 19 anos,1
+295,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,6,De 15 a 19 anos,2
+296,66056,Grl. José de San Martín,66,Salta,2021,17,Dengue,6,De 15 a 19 anos,2
+297,66056,Grl. José de San Martín,66,Salta,2021,18,Dengue,6,De 15 a 19 anos,1
+298,66056,Grl. José de San Martín,66,Salta,2021,21,Dengue,6,De 15 a 19 anos,1
+299,66056,Grl. José de San Martín,66,Salta,2021,22,Dengue,6,De 15 a 19 anos,1
+300,66126,Orán,66,Salta,2021,2,Dengue,6,De 15 a 19 anos,3
+301,66126,Orán,66,Salta,2021,3,Dengue,6,De 15 a 19 anos,2
+302,66126,Orán,66,Salta,2021,4,Dengue,6,De 15 a 19 anos,2
+303,66126,Orán,66,Salta,2021,5,Dengue,6,De 15 a 19 anos,3
+304,66126,Orán,66,Salta,2021,6,Dengue,6,De 15 a 19 anos,1
+305,66126,Orán,66,Salta,2021,7,Dengue,6,De 15 a 19 anos,5
+306,66126,Orán,66,Salta,2021,8,Dengue,6,De 15 a 19 anos,5
+307,66126,Orán,66,Salta,2021,9,Dengue,6,De 15 a 19 anos,3
+308,66126,Orán,66,Salta,2021,10,Dengue,6,De 15 a 19 anos,3
+309,66126,Orán,66,Salta,2021,11,Dengue,6,De 15 a 19 anos,5
+310,66126,Orán,66,Salta,2021,12,Dengue,6,De 15 a 19 anos,3
+311,66126,Orán,66,Salta,2021,13,Dengue,6,De 15 a 19 anos,6
+312,66126,Orán,66,Salta,2021,14,Dengue,6,De 15 a 19 anos,1
+313,66126,Orán,66,Salta,2021,15,Dengue,6,De 15 a 19 anos,1
+314,66126,Orán,66,Salta,2021,16,Dengue,6,De 15 a 19 anos,13
+315,66126,Orán,66,Salta,2021,17,Dengue,6,De 15 a 19 anos,7
+316,66126,Orán,66,Salta,2021,18,Dengue,6,De 15 a 19 anos,13
+317,66126,Orán,66,Salta,2021,19,Dengue,6,De 15 a 19 anos,5
+318,66126,Orán,66,Salta,2021,20,Dengue,6,De 15 a 19 anos,6
+319,66126,Orán,66,Salta,2021,21,Dengue,6,De 15 a 19 anos,2
+320,66126,Orán,66,Salta,2021,23,Dengue,6,De 15 a 19 anos,3
+321,66126,Orán,66,Salta,2021,24,Dengue,6,De 15 a 19 anos,1
+322,66133,Rivadavia,66,Salta,2021,11,Dengue,6,De 15 a 19 anos,1
+323,66133,Rivadavia,66,Salta,2021,15,Dengue,6,De 15 a 19 anos,1
+324,66133,Rivadavia,66,Salta,2021,16,Dengue,6,De 15 a 19 anos,2
+325,66133,Rivadavia,66,Salta,2021,17,Dengue,6,De 15 a 19 anos,2
+326,66133,Rivadavia,66,Salta,2021,18,Dengue,6,De 15 a 19 anos,1
+327,66133,Rivadavia,66,Salta,2021,19,Dengue,6,De 15 a 19 anos,2
+328,66133,Rivadavia,66,Salta,2021,21,Dengue,6,De 15 a 19 anos,1
+329,66133,Rivadavia,66,Salta,2021,22,Dengue,6,De 15 a 19 anos,2
+330,66133,Rivadavia,66,Salta,2021,24,Dengue,6,De 15 a 19 anos,1
+331,74056,La Capital,74,San Luis,2021,17,Dengue,6,De 15 a 19 anos,1
+332,82091,San Cristóbal,82,Santa Fe,2021,11,Dengue,6,De 15 a 19 anos,2
+333,82091,San Cristóbal,82,Santa Fe,2021,14,Dengue,6,De 15 a 19 anos,1
+334,82091,San Cristóbal,82,Santa Fe,2021,15,Dengue,6,De 15 a 19 anos,1
+335,82091,San Cristóbal,82,Santa Fe,2021,16,Dengue,6,De 15 a 19 anos,1
+336,82091,San Cristóbal,82,Santa Fe,2021,17,Dengue,6,De 15 a 19 anos,1
+337,82091,San Cristóbal,82,Santa Fe,2021,20,Dengue,6,De 15 a 19 anos,1
+338,82091,San Cristóbal,82,Santa Fe,2021,21,Dengue,6,De 15 a 19 anos,1
+339,90084,Capital,90,Tucumán,2021,18,Dengue,6,De 15 a 19 anos,1
+340,90084,Capital,90,Tucumán,2021,24,Dengue,6,De 15 a 19 anos,1
+341,18084,Ituzaingó,18,Corrientes,2021,15,Dengue,7,De 20 a 24 anos,1
+342,34007,Bermejo,34,Formosa,2021,6,Dengue,7,De 20 a 24 anos,1
+343,34014,Formosa,34,Formosa,2021,24,Dengue,7,De 20 a 24 anos,1
+344,34014,Formosa,34,Formosa,2021,53,Dengue,7,De 20 a 24 anos,1
+345,34028,Matacos,34,Formosa,2021,9,Dengue,7,De 20 a 24 anos,1
+346,34035,Patiño,34,Formosa,2021,3,Dengue,7,De 20 a 24 anos,1
+347,34035,Patiño,34,Formosa,2021,4,Dengue,7,De 20 a 24 anos,5
+348,34035,Patiño,34,Formosa,2021,5,Dengue,7,De 20 a 24 anos,2
+349,34035,Patiño,34,Formosa,2021,6,Dengue,7,De 20 a 24 anos,1
+350,34035,Patiño,34,Formosa,2021,7,Dengue,7,De 20 a 24 anos,5
+351,34035,Patiño,34,Formosa,2021,8,Dengue,7,De 20 a 24 anos,4
+352,34035,Patiño,34,Formosa,2021,9,Dengue,7,De 20 a 24 anos,1
+353,34035,Patiño,34,Formosa,2021,10,Dengue,7,De 20 a 24 anos,3
+354,34035,Patiño,34,Formosa,2021,11,Dengue,7,De 20 a 24 anos,1
+355,38014,El Carmen,38,Jujuy,2021,17,Dengue,7,De 20 a 24 anos,1
+356,38035,Ledesma,38,Jujuy,2021,11,Dengue,7,De 20 a 24 anos,1
+357,38035,Ledesma,38,Jujuy,2021,13,Dengue,7,De 20 a 24 anos,4
+358,38035,Ledesma,38,Jujuy,2021,16,Dengue,7,De 20 a 24 anos,6
+359,38035,Ledesma,38,Jujuy,2021,17,Dengue,7,De 20 a 24 anos,7
+360,38035,Ledesma,38,Jujuy,2021,19,Dengue,7,De 20 a 24 anos,2
+361,38035,Ledesma,38,Jujuy,2021,22,Dengue,7,De 20 a 24 anos,1
+362,38035,Ledesma,38,Jujuy,2021,23,Dengue,7,De 20 a 24 anos,2
+363,38063,San Pedro,38,Jujuy,2021,19,Dengue,7,De 20 a 24 anos,1
+364,38070,Santa Bárbara,38,Jujuy,2021,14,Dengue,7,De 20 a 24 anos,1
+365,38070,Santa Bárbara,38,Jujuy,2021,16,Dengue,7,De 20 a 24 anos,1
+366,38070,Santa Bárbara,38,Jujuy,2021,17,Dengue,7,De 20 a 24 anos,3
+367,38070,Santa Bárbara,38,Jujuy,2021,21,Dengue,7,De 20 a 24 anos,1
+368,38070,Santa Bárbara,38,Jujuy,2021,22,Dengue,7,De 20 a 24 anos,2
+369,46014,Capital,46,La Rioja,2021,4,Dengue,7,De 20 a 24 anos,1
+370,46014,Capital,46,La Rioja,2021,5,Dengue,7,De 20 a 24 anos,1
+371,46014,Capital,46,La Rioja,2021,6,Dengue,7,De 20 a 24 anos,1
+372,46014,Capital,46,La Rioja,2021,7,Dengue,7,De 20 a 24 anos,2
+373,46014,Capital,46,La Rioja,2021,8,Dengue,7,De 20 a 24 anos,1
+374,46014,Capital,46,La Rioja,2021,9,Dengue,7,De 20 a 24 anos,1
+375,46014,Capital,46,La Rioja,2021,10,Dengue,7,De 20 a 24 anos,9
+376,46014,Capital,46,La Rioja,2021,11,Dengue,7,De 20 a 24 anos,5
+377,46014,Capital,46,La Rioja,2021,12,Dengue,7,De 20 a 24 anos,4
+378,46014,Capital,46,La Rioja,2021,13,Dengue,7,De 20 a 24 anos,4
+379,46014,Capital,46,La Rioja,2021,14,Dengue,7,De 20 a 24 anos,10
+380,46014,Capital,46,La Rioja,2021,15,Dengue,7,De 20 a 24 anos,15
+381,46014,Capital,46,La Rioja,2021,16,Dengue,7,De 20 a 24 anos,18
+382,46014,Capital,46,La Rioja,2021,17,Dengue,7,De 20 a 24 anos,16
+383,46014,Capital,46,La Rioja,2021,18,Dengue,7,De 20 a 24 anos,8
+384,46014,Capital,46,La Rioja,2021,19,Dengue,7,De 20 a 24 anos,10
+385,46014,Capital,46,La Rioja,2021,20,Dengue,7,De 20 a 24 anos,7
+386,46014,Capital,46,La Rioja,2021,21,Dengue,7,De 20 a 24 anos,4
+387,46014,Capital,46,La Rioja,2021,22,Dengue,7,De 20 a 24 anos,1
+388,46014,Capital,46,La Rioja,2021,23,Dengue,7,De 20 a 24 anos,1
+389,46035,Chamical,46,La Rioja,2021,18,Dengue,7,De 20 a 24 anos,1
+390,46042,Chilecito,46,La Rioja,2021,16,Dengue,7,De 20 a 24 anos,1
+391,54007,Apóstoles,54,Misiones,2021,15,Dengue,7,De 20 a 24 anos,1
+392,54028,Capital,54,Misiones,2021,6,Dengue,7,De 20 a 24 anos,1
+393,54028,Capital,54,Misiones,2021,9,Dengue,7,De 20 a 24 anos,1
+394,54028,Capital,54,Misiones,2021,10,Dengue,7,De 20 a 24 anos,1
+395,54028,Capital,54,Misiones,2021,11,Dengue,7,De 20 a 24 anos,1
+396,54028,Capital,54,Misiones,2021,12,Dengue,7,De 20 a 24 anos,3
+397,54028,Capital,54,Misiones,2021,13,Dengue,7,De 20 a 24 anos,1
+398,54035,Concepción,54,Misiones,2021,16,Dengue,7,De 20 a 24 anos,1
+399,54042,Eldorado,54,Misiones,2021,16,Dengue,7,De 20 a 24 anos,1
+400,54063,Iguazú,54,Misiones,2021,15,Dengue,7,De 20 a 24 anos,1
+401,54063,Iguazú,54,Misiones,2021,16,Dengue,7,De 20 a 24 anos,1
+402,54063,Iguazú,54,Misiones,2021,17,Dengue,7,De 20 a 24 anos,1
+403,54063,Iguazú,54,Misiones,2021,18,Dengue,7,De 20 a 24 anos,1
+404,66007,Anta,66,Salta,2021,12,Dengue,7,De 20 a 24 anos,1
+405,66007,Anta,66,Salta,2021,13,Dengue,7,De 20 a 24 anos,2
+406,66007,Anta,66,Salta,2021,14,Dengue,7,De 20 a 24 anos,3
+407,66007,Anta,66,Salta,2021,15,Dengue,7,De 20 a 24 anos,1
+408,66007,Anta,66,Salta,2021,16,Dengue,7,De 20 a 24 anos,7
+409,66007,Anta,66,Salta,2021,17,Dengue,7,De 20 a 24 anos,2
+410,66007,Anta,66,Salta,2021,18,Dengue,7,De 20 a 24 anos,2
+411,66007,Anta,66,Salta,2021,19,Dengue,7,De 20 a 24 anos,3
+412,66007,Anta,66,Salta,2021,20,Dengue,7,De 20 a 24 anos,1
+413,66007,Anta,66,Salta,2021,22,Dengue,7,De 20 a 24 anos,1
+414,66007,Anta,66,Salta,2021,23,Dengue,7,De 20 a 24 anos,1
+415,66007,Anta,66,Salta,2021,24,Dengue,7,De 20 a 24 anos,1
+416,66028,Capital,66,Salta,2021,12,Dengue,7,De 20 a 24 anos,1
+417,66056,Grl. José de San Martín,66,Salta,2021,6,Dengue,7,De 20 a 24 anos,2
+418,66056,Grl. José de San Martín,66,Salta,2021,8,Dengue,7,De 20 a 24 anos,2
+419,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,7,De 20 a 24 anos,4
+420,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,7,De 20 a 24 anos,5
+421,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,7,De 20 a 24 anos,5
+422,66056,Grl. José de San Martín,66,Salta,2021,13,Dengue,7,De 20 a 24 anos,3
+423,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,7,De 20 a 24 anos,2
+424,66056,Grl. José de San Martín,66,Salta,2021,17,Dengue,7,De 20 a 24 anos,1
+425,66056,Grl. José de San Martín,66,Salta,2021,18,Dengue,7,De 20 a 24 anos,1
+426,66126,Orán,66,Salta,2021,1,Dengue,7,De 20 a 24 anos,2
+427,66126,Orán,66,Salta,2021,3,Dengue,7,De 20 a 24 anos,3
+428,66126,Orán,66,Salta,2021,4,Dengue,7,De 20 a 24 anos,1
+429,66126,Orán,66,Salta,2021,5,Dengue,7,De 20 a 24 anos,5
+430,66126,Orán,66,Salta,2021,6,Dengue,7,De 20 a 24 anos,2
+431,66126,Orán,66,Salta,2021,7,Dengue,7,De 20 a 24 anos,6
+432,66126,Orán,66,Salta,2021,8,Dengue,7,De 20 a 24 anos,7
+433,66126,Orán,66,Salta,2021,9,Dengue,7,De 20 a 24 anos,4
+434,66126,Orán,66,Salta,2021,10,Dengue,7,De 20 a 24 anos,4
+435,66126,Orán,66,Salta,2021,11,Dengue,7,De 20 a 24 anos,5
+436,66126,Orán,66,Salta,2021,12,Dengue,7,De 20 a 24 anos,4
+437,66126,Orán,66,Salta,2021,13,Dengue,7,De 20 a 24 anos,2
+438,66126,Orán,66,Salta,2021,14,Dengue,7,De 20 a 24 anos,11
+439,66126,Orán,66,Salta,2021,15,Dengue,7,De 20 a 24 anos,5
+440,66126,Orán,66,Salta,2021,16,Dengue,7,De 20 a 24 anos,5
+441,66126,Orán,66,Salta,2021,17,Dengue,7,De 20 a 24 anos,6
+442,66126,Orán,66,Salta,2021,18,Dengue,7,De 20 a 24 anos,9
+443,66126,Orán,66,Salta,2021,19,Dengue,7,De 20 a 24 anos,7
+444,66126,Orán,66,Salta,2021,20,Dengue,7,De 20 a 24 anos,1
+445,66126,Orán,66,Salta,2021,21,Dengue,7,De 20 a 24 anos,5
+446,66126,Orán,66,Salta,2021,22,Dengue,7,De 20 a 24 anos,2
+447,66126,Orán,66,Salta,2021,24,Dengue,7,De 20 a 24 anos,2
+448,66133,Rivadavia,66,Salta,2021,13,Dengue,7,De 20 a 24 anos,1
+449,66133,Rivadavia,66,Salta,2021,15,Dengue,7,De 20 a 24 anos,3
+450,66133,Rivadavia,66,Salta,2021,16,Dengue,7,De 20 a 24 anos,4
+451,66133,Rivadavia,66,Salta,2021,18,Dengue,7,De 20 a 24 anos,3
+452,66133,Rivadavia,66,Salta,2021,21,Dengue,7,De 20 a 24 anos,1
+453,66133,Rivadavia,66,Salta,2021,22,Dengue,7,De 20 a 24 anos,3
+454,66133,Rivadavia,66,Salta,2021,24,Dengue,7,De 20 a 24 anos,1
+455,74056,La Capital,74,San Luis,2021,10,Dengue,7,De 20 a 24 anos,1
+456,82091,San Cristóbal,82,Santa Fe,2021,14,Dengue,7,De 20 a 24 anos,2
+457,82091,San Cristóbal,82,Santa Fe,2021,18,Dengue,7,De 20 a 24 anos,1
+458,82091,San Cristóbal,82,Santa Fe,2021,19,Dengue,7,De 20 a 24 anos,1
+459,22003,COMUNA 3,2,CABA,2021,15,Dengue,8,De 25 a 34 anos,1
+460,22015,COMUNA 15,2,CABA,2021,11,Dengue,8,De 25 a 34 anos,1
+461,66371,General San Martín,6,Buenos Aires,2021,12,Dengue,8,De 25 a 34 anos,1
+462,66490,Lomas de Zamora,6,Buenos Aires,2021,15,Dengue,8,De 25 a 34 anos,1
+463,14007,Calamuchita,14,Córdoba,2021,18,Dengue,8,De 25 a 34 anos,1
+464,14014,Capital,14,Córdoba,2021,11,Dengue,8,De 25 a 34 anos,1
+465,14028,Cruz del Eje,14,Córdoba,2021,18,Dengue,8,De 25 a 34 anos,1
+466,18021,Capital,18,Corrientes,2021,15,Dengue,8,De 25 a 34 anos,3
+467,18021,Capital,18,Corrientes,2021,16,Dengue,8,De 25 a 34 anos,1
+468,18168,Santo Tomé,18,Corrientes,2021,7,Dengue,8,De 25 a 34 anos,1
+469,22140,San Fernando,22,Chaco,2021,14,Dengue,8,De 25 a 34 anos,1
+470,30028,Federación,30,Entre Ríos,2021,14,Dengue,8,De 25 a 34 anos,1
+471,30028,Federación,30,Entre Ríos,2021,15,Dengue,8,De 25 a 34 anos,1
+472,30028,Federación,30,Entre Ríos,2021,16,Dengue,8,De 25 a 34 anos,1
+473,34014,Formosa,34,Formosa,2021,23,Dengue,8,De 25 a 34 anos,1
+474,34028,Matacos,34,Formosa,2021,6,Dengue,8,De 25 a 34 anos,1
+475,34035,Patiño,34,Formosa,2021,2,Dengue,8,De 25 a 34 anos,1
+476,34035,Patiño,34,Formosa,2021,3,Dengue,8,De 25 a 34 anos,3
+477,34035,Patiño,34,Formosa,2021,4,Dengue,8,De 25 a 34 anos,2
+478,34035,Patiño,34,Formosa,2021,5,Dengue,8,De 25 a 34 anos,11
+479,34035,Patiño,34,Formosa,2021,6,Dengue,8,De 25 a 34 anos,10
+480,34035,Patiño,34,Formosa,2021,7,Dengue,8,De 25 a 34 anos,6
+481,34035,Patiño,34,Formosa,2021,8,Dengue,8,De 25 a 34 anos,5
+482,34035,Patiño,34,Formosa,2021,9,Dengue,8,De 25 a 34 anos,1
+483,34035,Patiño,34,Formosa,2021,10,Dengue,8,De 25 a 34 anos,9
+484,34035,Patiño,34,Formosa,2021,11,Dengue,8,De 25 a 34 anos,2
+485,34035,Patiño,34,Formosa,2021,16,Dengue,8,De 25 a 34 anos,1
+486,34063,Ramón Lista,34,Formosa,2021,13,Dengue,8,De 25 a 34 anos,1
+487,38014,El Carmen,38,Jujuy,2021,19,Dengue,8,De 25 a 34 anos,1
+488,38035,Ledesma,38,Jujuy,2021,10,Dengue,8,De 25 a 34 anos,2
+489,38035,Ledesma,38,Jujuy,2021,11,Dengue,8,De 25 a 34 anos,1
+490,38035,Ledesma,38,Jujuy,2021,12,Dengue,8,De 25 a 34 anos,6
+491,38035,Ledesma,38,Jujuy,2021,13,Dengue,8,De 25 a 34 anos,2
+492,38035,Ledesma,38,Jujuy,2021,14,Dengue,8,De 25 a 34 anos,2
+493,38035,Ledesma,38,Jujuy,2021,15,Dengue,8,De 25 a 34 anos,3
+494,38035,Ledesma,38,Jujuy,2021,16,Dengue,8,De 25 a 34 anos,8
+495,38035,Ledesma,38,Jujuy,2021,17,Dengue,8,De 25 a 34 anos,11
+496,38035,Ledesma,38,Jujuy,2021,18,Dengue,8,De 25 a 34 anos,7
+497,38035,Ledesma,38,Jujuy,2021,20,Dengue,8,De 25 a 34 anos,1
+498,38035,Ledesma,38,Jujuy,2021,21,Dengue,8,De 25 a 34 anos,5
+499,38063,San Pedro,38,Jujuy,2021,15,Dengue,8,De 25 a 34 anos,1
+500,38070,Santa Bárbara,38,Jujuy,2021,15,Dengue,8,De 25 a 34 anos,4
+501,38070,Santa Bárbara,38,Jujuy,2021,17,Dengue,8,De 25 a 34 anos,5
+502,38070,Santa Bárbara,38,Jujuy,2021,18,Dengue,8,De 25 a 34 anos,9
+503,38070,Santa Bárbara,38,Jujuy,2021,19,Dengue,8,De 25 a 34 anos,3
+504,38070,Santa Bárbara,38,Jujuy,2021,21,Dengue,8,De 25 a 34 anos,1
+505,38070,Santa Bárbara,38,Jujuy,2021,22,Dengue,8,De 25 a 34 anos,3
+506,38070,Santa Bárbara,38,Jujuy,2021,23,Dengue,8,De 25 a 34 anos,3
+507,38070,Santa Bárbara,38,Jujuy,2021,25,Dengue,8,De 25 a 34 anos,1
+508,46014,Capital,46,La Rioja,2021,1,Dengue,8,De 25 a 34 anos,1
+509,46014,Capital,46,La Rioja,2021,6,Dengue,8,De 25 a 34 anos,3
+510,46014,Capital,46,La Rioja,2021,7,Dengue,8,De 25 a 34 anos,3
+511,46014,Capital,46,La Rioja,2021,8,Dengue,8,De 25 a 34 anos,4
+512,46014,Capital,46,La Rioja,2021,9,Dengue,8,De 25 a 34 anos,4
+513,46014,Capital,46,La Rioja,2021,10,Dengue,8,De 25 a 34 anos,9
+514,46014,Capital,46,La Rioja,2021,11,Dengue,8,De 25 a 34 anos,7
+515,46014,Capital,46,La Rioja,2021,12,Dengue,8,De 25 a 34 anos,15
+516,46014,Capital,46,La Rioja,2021,13,Dengue,8,De 25 a 34 anos,15
+517,46014,Capital,46,La Rioja,2021,14,Dengue,8,De 25 a 34 anos,21
+518,46014,Capital,46,La Rioja,2021,15,Dengue,8,De 25 a 34 anos,38
+519,46014,Capital,46,La Rioja,2021,16,Dengue,8,De 25 a 34 anos,26
+520,46014,Capital,46,La Rioja,2021,17,Dengue,8,De 25 a 34 anos,27
+521,46014,Capital,46,La Rioja,2021,18,Dengue,8,De 25 a 34 anos,19
+522,46014,Capital,46,La Rioja,2021,19,Dengue,8,De 25 a 34 anos,20
+523,46014,Capital,46,La Rioja,2021,20,Dengue,8,De 25 a 34 anos,8
+524,46014,Capital,46,La Rioja,2021,21,Dengue,8,De 25 a 34 anos,4
+525,46014,Capital,46,La Rioja,2021,22,Dengue,8,De 25 a 34 anos,2
+526,46014,Capital,46,La Rioja,2021,23,Dengue,8,De 25 a 34 anos,1
+527,46014,Capital,46,La Rioja,2021,25,Dengue,8,De 25 a 34 anos,1
+528,46126,Sanagasta,46,La Rioja,2021,16,Dengue,8,De 25 a 34 anos,2
+529,50098,San Martín,50,Mendoza,2021,13,Dengue,8,De 25 a 34 anos,1
+530,54028,Capital,54,Misiones,2021,6,Dengue,8,De 25 a 34 anos,1
+531,54028,Capital,54,Misiones,2021,7,Dengue,8,De 25 a 34 anos,1
+532,54028,Capital,54,Misiones,2021,8,Dengue,8,De 25 a 34 anos,1
+533,54028,Capital,54,Misiones,2021,9,Dengue,8,De 25 a 34 anos,1
+534,54028,Capital,54,Misiones,2021,10,Dengue,8,De 25 a 34 anos,1
+535,54028,Capital,54,Misiones,2021,11,Dengue,8,De 25 a 34 anos,7
+536,54028,Capital,54,Misiones,2021,12,Dengue,8,De 25 a 34 anos,2
+537,54028,Capital,54,Misiones,2021,14,Dengue,8,De 25 a 34 anos,1
+538,54035,Concepción,54,Misiones,2021,11,Dengue,8,De 25 a 34 anos,1
+539,54042,Eldorado,54,Misiones,2021,7,Dengue,8,De 25 a 34 anos,1
+540,54042,Eldorado,54,Misiones,2021,16,Dengue,8,De 25 a 34 anos,3
+541,54049,General Manuel Belgrano,54,Misiones,2021,14,Dengue,8,De 25 a 34 anos,1
+542,54056,Guaraní,54,Misiones,2021,16,Dengue,8,De 25 a 34 anos,1
+543,54056,Guaraní,54,Misiones,2021,17,Dengue,8,De 25 a 34 anos,1
+544,54063,Iguazú,54,Misiones,2021,8,Dengue,8,De 25 a 34 anos,1
+545,54063,Iguazú,54,Misiones,2021,14,Dengue,8,De 25 a 34 anos,1
+546,54063,Iguazú,54,Misiones,2021,17,Dengue,8,De 25 a 34 anos,1
+547,54070,Leandro N. Alem,54,Misiones,2021,19,Dengue,8,De 25 a 34 anos,1
+548,66007,Anta,66,Salta,2021,11,Dengue,8,De 25 a 34 anos,3
+549,66007,Anta,66,Salta,2021,12,Dengue,8,De 25 a 34 anos,1
+550,66007,Anta,66,Salta,2021,13,Dengue,8,De 25 a 34 anos,3
+551,66007,Anta,66,Salta,2021,14,Dengue,8,De 25 a 34 anos,4
+552,66007,Anta,66,Salta,2021,15,Dengue,8,De 25 a 34 anos,2
+553,66007,Anta,66,Salta,2021,16,Dengue,8,De 25 a 34 anos,8
+554,66007,Anta,66,Salta,2021,17,Dengue,8,De 25 a 34 anos,3
+555,66007,Anta,66,Salta,2021,18,Dengue,8,De 25 a 34 anos,1
+556,66007,Anta,66,Salta,2021,19,Dengue,8,De 25 a 34 anos,6
+557,66007,Anta,66,Salta,2021,20,Dengue,8,De 25 a 34 anos,3
+558,66007,Anta,66,Salta,2021,23,Dengue,8,De 25 a 34 anos,1
+559,66028,Capital,66,Salta,2021,5,Dengue,8,De 25 a 34 anos,1
+560,66028,Capital,66,Salta,2021,6,Dengue,8,De 25 a 34 anos,1
+561,66028,Capital,66,Salta,2021,7,Dengue,8,De 25 a 34 anos,1
+562,66028,Capital,66,Salta,2021,9,Dengue,8,De 25 a 34 anos,1
+563,66028,Capital,66,Salta,2021,10,Dengue,8,De 25 a 34 anos,1
+564,66028,Capital,66,Salta,2021,12,Dengue,8,De 25 a 34 anos,1
+565,66028,Capital,66,Salta,2021,13,Dengue,8,De 25 a 34 anos,1
+566,66028,Capital,66,Salta,2021,16,Dengue,8,De 25 a 34 anos,3
+567,66028,Capital,66,Salta,2021,19,Dengue,8,De 25 a 34 anos,1
+568,66049,General Güemes,66,Salta,2021,16,Dengue,8,De 25 a 34 anos,1
+569,66056,Grl. José de San Martín,66,Salta,2021,4,Dengue,8,De 25 a 34 anos,2
+570,66056,Grl. José de San Martín,66,Salta,2021,5,Dengue,8,De 25 a 34 anos,1
+571,66056,Grl. José de San Martín,66,Salta,2021,6,Dengue,8,De 25 a 34 anos,3
+572,66056,Grl. José de San Martín,66,Salta,2021,7,Dengue,8,De 25 a 34 anos,2
+573,66056,Grl. José de San Martín,66,Salta,2021,8,Dengue,8,De 25 a 34 anos,2
+574,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,8,De 25 a 34 anos,7
+575,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,8,De 25 a 34 anos,7
+576,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,8,De 25 a 34 anos,6
+577,66056,Grl. José de San Martín,66,Salta,2021,12,Dengue,8,De 25 a 34 anos,1
+578,66056,Grl. José de San Martín,66,Salta,2021,13,Dengue,8,De 25 a 34 anos,1
+579,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,8,De 25 a 34 anos,1
+580,66056,Grl. José de San Martín,66,Salta,2021,16,Dengue,8,De 25 a 34 anos,3
+581,66056,Grl. José de San Martín,66,Salta,2021,18,Dengue,8,De 25 a 34 anos,1
+582,66056,Grl. José de San Martín,66,Salta,2021,19,Dengue,8,De 25 a 34 anos,2
+583,66056,Grl. José de San Martín,66,Salta,2021,21,Dengue,8,De 25 a 34 anos,1
+584,66126,Orán,66,Salta,2021,1,Dengue,8,De 25 a 34 anos,1
+585,66126,Orán,66,Salta,2021,2,Dengue,8,De 25 a 34 anos,3
+586,66126,Orán,66,Salta,2021,3,Dengue,8,De 25 a 34 anos,4
+587,66126,Orán,66,Salta,2021,4,Dengue,8,De 25 a 34 anos,4
+588,66126,Orán,66,Salta,2021,5,Dengue,8,De 25 a 34 anos,10
+589,66126,Orán,66,Salta,2021,6,Dengue,8,De 25 a 34 anos,1
+590,66126,Orán,66,Salta,2021,7,Dengue,8,De 25 a 34 anos,2
+591,66126,Orán,66,Salta,2021,8,Dengue,8,De 25 a 34 anos,9
+592,66126,Orán,66,Salta,2021,9,Dengue,8,De 25 a 34 anos,2
+593,66126,Orán,66,Salta,2021,10,Dengue,8,De 25 a 34 anos,6
+594,66126,Orán,66,Salta,2021,11,Dengue,8,De 25 a 34 anos,10
+595,66126,Orán,66,Salta,2021,12,Dengue,8,De 25 a 34 anos,8
+596,66126,Orán,66,Salta,2021,13,Dengue,8,De 25 a 34 anos,10
+597,66126,Orán,66,Salta,2021,14,Dengue,8,De 25 a 34 anos,13
+598,66126,Orán,66,Salta,2021,15,Dengue,8,De 25 a 34 anos,18
+599,66126,Orán,66,Salta,2021,16,Dengue,8,De 25 a 34 anos,22
+600,66126,Orán,66,Salta,2021,17,Dengue,8,De 25 a 34 anos,22
+601,66126,Orán,66,Salta,2021,18,Dengue,8,De 25 a 34 anos,11
+602,66126,Orán,66,Salta,2021,19,Dengue,8,De 25 a 34 anos,9
+603,66126,Orán,66,Salta,2021,20,Dengue,8,De 25 a 34 anos,7
+604,66126,Orán,66,Salta,2021,21,Dengue,8,De 25 a 34 anos,5
+605,66126,Orán,66,Salta,2021,22,Dengue,8,De 25 a 34 anos,4
+606,66126,Orán,66,Salta,2021,23,Dengue,8,De 25 a 34 anos,1
+607,66126,Orán,66,Salta,2021,24,Dengue,8,De 25 a 34 anos,1
+608,66126,Orán,66,Salta,2021,53,Dengue,8,De 25 a 34 anos,2
+609,66133,Rivadavia,66,Salta,2021,14,Dengue,8,De 25 a 34 anos,1
+610,66133,Rivadavia,66,Salta,2021,15,Dengue,8,De 25 a 34 anos,2
+611,66133,Rivadavia,66,Salta,2021,16,Dengue,8,De 25 a 34 anos,3
+612,66133,Rivadavia,66,Salta,2021,17,Dengue,8,De 25 a 34 anos,5
+613,66133,Rivadavia,66,Salta,2021,18,Dengue,8,De 25 a 34 anos,9
+614,66133,Rivadavia,66,Salta,2021,19,Dengue,8,De 25 a 34 anos,2
+615,66133,Rivadavia,66,Salta,2021,20,Dengue,8,De 25 a 34 anos,1
+616,66133,Rivadavia,66,Salta,2021,22,Dengue,8,De 25 a 34 anos,2
+617,66133,Rivadavia,66,Salta,2021,24,Dengue,8,De 25 a 34 anos,1
+618,66147,Rosario de Lerma,66,Salta,2021,17,Dengue,8,De 25 a 34 anos,1
+619,74056,La Capital,74,San Luis,2021,14,Dengue,8,De 25 a 34 anos,2
+620,74056,La Capital,74,San Luis,2021,16,Dengue,8,De 25 a 34 anos,1
+621,82091,San Cristóbal,82,Santa Fe,2021,14,Dengue,8,De 25 a 34 anos,1
+622,82091,San Cristóbal,82,Santa Fe,2021,16,Dengue,8,De 25 a 34 anos,3
+623,82091,San Cristóbal,82,Santa Fe,2021,17,Dengue,8,De 25 a 34 anos,1
+624,82091,San Cristóbal,82,Santa Fe,2021,18,Dengue,8,De 25 a 34 anos,1
+625,90084,Capital,90,Tucumán,2021,18,Dengue,8,De 25 a 34 anos,1
+626,90084,Capital,90,Tucumán,2021,19,Dengue,8,De 25 a 34 anos,1
+627,90084,Capital,90,Tucumán,2021,21,Dengue,8,De 25 a 34 anos,2
+628,90105,Tafí Viejo,90,Tucumán,2021,18,Dengue,8,De 25 a 34 anos,1
+629,,(en blanco),46,La Rioja,2021,16,Dengue,8,De 25 a 34 anos,1
+630,66028,Almirante Brown,6,Buenos Aires,2021,14,Dengue,9,De 35 a 44 anos,1
+631,66441,La Plata,6,Buenos Aires,2021,10,Dengue,9,De 35 a 44 anos,1
+632,14014,Capital,14,Córdoba,2021,17,Dengue,9,De 35 a 44 anos,1
+633,30028,Federación,30,Entre Ríos,2021,13,Dengue,9,De 35 a 44 anos,1
+634,30028,Federación,30,Entre Ríos,2021,15,Dengue,9,De 35 a 44 anos,2
+635,30028,Federación,30,Entre Ríos,2021,16,Dengue,9,De 35 a 44 anos,1
+636,30028,Federación,30,Entre Ríos,2021,17,Dengue,9,De 35 a 44 anos,1
+637,34035,Patiño,34,Formosa,2021,3,Dengue,9,De 35 a 44 anos,4
+638,34035,Patiño,34,Formosa,2021,4,Dengue,9,De 35 a 44 anos,2
+639,34035,Patiño,34,Formosa,2021,5,Dengue,9,De 35 a 44 anos,9
+640,34035,Patiño,34,Formosa,2021,6,Dengue,9,De 35 a 44 anos,9
+641,34035,Patiño,34,Formosa,2021,7,Dengue,9,De 35 a 44 anos,5
+642,34035,Patiño,34,Formosa,2021,8,Dengue,9,De 35 a 44 anos,10
+643,34035,Patiño,34,Formosa,2021,10,Dengue,9,De 35 a 44 anos,3
+644,34035,Patiño,34,Formosa,2021,11,Dengue,9,De 35 a 44 anos,1
+645,38014,El Carmen,38,Jujuy,2021,15,Dengue,9,De 35 a 44 anos,1
+646,38035,Ledesma,38,Jujuy,2021,7,Dengue,9,De 35 a 44 anos,1
+647,38035,Ledesma,38,Jujuy,2021,10,Dengue,9,De 35 a 44 anos,1
+648,38035,Ledesma,38,Jujuy,2021,11,Dengue,9,De 35 a 44 anos,3
+649,38035,Ledesma,38,Jujuy,2021,12,Dengue,9,De 35 a 44 anos,1
+650,38035,Ledesma,38,Jujuy,2021,13,Dengue,9,De 35 a 44 anos,3
+651,38035,Ledesma,38,Jujuy,2021,14,Dengue,9,De 35 a 44 anos,2
+652,38035,Ledesma,38,Jujuy,2021,15,Dengue,9,De 35 a 44 anos,5
+653,38035,Ledesma,38,Jujuy,2021,16,Dengue,9,De 35 a 44 anos,10
+654,38035,Ledesma,38,Jujuy,2021,17,Dengue,9,De 35 a 44 anos,5
+655,38035,Ledesma,38,Jujuy,2021,18,Dengue,9,De 35 a 44 anos,4
+656,38035,Ledesma,38,Jujuy,2021,19,Dengue,9,De 35 a 44 anos,2
+657,38035,Ledesma,38,Jujuy,2021,21,Dengue,9,De 35 a 44 anos,1
+658,38035,Ledesma,38,Jujuy,2021,23,Dengue,9,De 35 a 44 anos,1
+659,38063,San Pedro,38,Jujuy,2021,12,Dengue,9,De 35 a 44 anos,1
+660,38070,Santa Bárbara,38,Jujuy,2021,14,Dengue,9,De 35 a 44 anos,2
+661,38070,Santa Bárbara,38,Jujuy,2021,15,Dengue,9,De 35 a 44 anos,4
+662,38070,Santa Bárbara,38,Jujuy,2021,16,Dengue,9,De 35 a 44 anos,3
+663,38070,Santa Bárbara,38,Jujuy,2021,17,Dengue,9,De 35 a 44 anos,2
+664,38070,Santa Bárbara,38,Jujuy,2021,18,Dengue,9,De 35 a 44 anos,7
+665,38070,Santa Bárbara,38,Jujuy,2021,19,Dengue,9,De 35 a 44 anos,1
+666,38070,Santa Bárbara,38,Jujuy,2021,20,Dengue,9,De 35 a 44 anos,1
+667,38070,Santa Bárbara,38,Jujuy,2021,21,Dengue,9,De 35 a 44 anos,3
+668,38070,Santa Bárbara,38,Jujuy,2021,22,Dengue,9,De 35 a 44 anos,3
+669,38070,Santa Bárbara,38,Jujuy,2021,23,Dengue,9,De 35 a 44 anos,3
+670,38070,Santa Bárbara,38,Jujuy,2021,25,Dengue,9,De 35 a 44 anos,1
+671,46007,Arauco,46,La Rioja,2021,16,Dengue,9,De 35 a 44 anos,1
+672,46014,Capital,46,La Rioja,2021,3,Dengue,9,De 35 a 44 anos,1
+673,46014,Capital,46,La Rioja,2021,6,Dengue,9,De 35 a 44 anos,2
+674,46014,Capital,46,La Rioja,2021,7,Dengue,9,De 35 a 44 anos,1
+675,46014,Capital,46,La Rioja,2021,8,Dengue,9,De 35 a 44 anos,3
+676,46014,Capital,46,La Rioja,2021,9,Dengue,9,De 35 a 44 anos,2
+677,46014,Capital,46,La Rioja,2021,10,Dengue,9,De 35 a 44 anos,7
+678,46014,Capital,46,La Rioja,2021,11,Dengue,9,De 35 a 44 anos,13
+679,46014,Capital,46,La Rioja,2021,12,Dengue,9,De 35 a 44 anos,12
+680,46014,Capital,46,La Rioja,2021,13,Dengue,9,De 35 a 44 anos,14
+681,46014,Capital,46,La Rioja,2021,14,Dengue,9,De 35 a 44 anos,22
+682,46014,Capital,46,La Rioja,2021,15,Dengue,9,De 35 a 44 anos,11
+683,46014,Capital,46,La Rioja,2021,16,Dengue,9,De 35 a 44 anos,16
+684,46014,Capital,46,La Rioja,2021,17,Dengue,9,De 35 a 44 anos,23
+685,46014,Capital,46,La Rioja,2021,18,Dengue,9,De 35 a 44 anos,11
+686,46014,Capital,46,La Rioja,2021,19,Dengue,9,De 35 a 44 anos,16
+687,46014,Capital,46,La Rioja,2021,20,Dengue,9,De 35 a 44 anos,8
+688,46014,Capital,46,La Rioja,2021,21,Dengue,9,De 35 a 44 anos,5
+689,46014,Capital,46,La Rioja,2021,22,Dengue,9,De 35 a 44 anos,1
+690,46014,Capital,46,La Rioja,2021,24,Dengue,9,De 35 a 44 anos,1
+691,54028,Capital,54,Misiones,2021,2,Dengue,9,De 35 a 44 anos,1
+692,54028,Capital,54,Misiones,2021,5,Dengue,9,De 35 a 44 anos,1
+693,54028,Capital,54,Misiones,2021,6,Dengue,9,De 35 a 44 anos,2
+694,54028,Capital,54,Misiones,2021,9,Dengue,9,De 35 a 44 anos,3
+695,54028,Capital,54,Misiones,2021,10,Dengue,9,De 35 a 44 anos,4
+696,54028,Capital,54,Misiones,2021,12,Dengue,9,De 35 a 44 anos,2
+697,54028,Capital,54,Misiones,2021,16,Dengue,9,De 35 a 44 anos,1
+698,54028,Capital,54,Misiones,2021,17,Dengue,9,De 35 a 44 anos,4
+699,54035,Concepción,54,Misiones,2021,11,Dengue,9,De 35 a 44 anos,1
+700,54042,Eldorado,54,Misiones,2021,16,Dengue,9,De 35 a 44 anos,1
+701,54042,Eldorado,54,Misiones,2021,17,Dengue,9,De 35 a 44 anos,1
+702,54063,Iguazú,54,Misiones,2021,15,Dengue,9,De 35 a 44 anos,1
+703,54077,Libertador Grl. San Martín,54,Misiones,2021,17,Dengue,9,De 35 a 44 anos,2
+704,54077,Libertador Grl. San Martín,54,Misiones,2021,19,Dengue,9,De 35 a 44 anos,1
+705,66007,Anta,66,Salta,2021,10,Dengue,9,De 35 a 44 anos,1
+706,66007,Anta,66,Salta,2021,11,Dengue,9,De 35 a 44 anos,2
+707,66007,Anta,66,Salta,2021,12,Dengue,9,De 35 a 44 anos,3
+708,66007,Anta,66,Salta,2021,14,Dengue,9,De 35 a 44 anos,2
+709,66007,Anta,66,Salta,2021,15,Dengue,9,De 35 a 44 anos,4
+710,66007,Anta,66,Salta,2021,16,Dengue,9,De 35 a 44 anos,6
+711,66007,Anta,66,Salta,2021,17,Dengue,9,De 35 a 44 anos,8
+712,66007,Anta,66,Salta,2021,19,Dengue,9,De 35 a 44 anos,4
+713,66007,Anta,66,Salta,2021,20,Dengue,9,De 35 a 44 anos,1
+714,66007,Anta,66,Salta,2021,22,Dengue,9,De 35 a 44 anos,2
+715,66007,Anta,66,Salta,2021,23,Dengue,9,De 35 a 44 anos,1
+716,66028,Capital,66,Salta,2021,5,Dengue,9,De 35 a 44 anos,1
+717,66028,Capital,66,Salta,2021,13,Dengue,9,De 35 a 44 anos,1
+718,66028,Capital,66,Salta,2021,18,Dengue,9,De 35 a 44 anos,1
+719,66056,Grl. José de San Martín,66,Salta,2021,7,Dengue,9,De 35 a 44 anos,1
+720,66056,Grl. José de San Martín,66,Salta,2021,8,Dengue,9,De 35 a 44 anos,2
+721,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,9,De 35 a 44 anos,5
+722,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,9,De 35 a 44 anos,7
+723,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,9,De 35 a 44 anos,5
+724,66056,Grl. José de San Martín,66,Salta,2021,12,Dengue,9,De 35 a 44 anos,1
+725,66056,Grl. José de San Martín,66,Salta,2021,13,Dengue,9,De 35 a 44 anos,2
+726,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,9,De 35 a 44 anos,6
+727,66056,Grl. José de San Martín,66,Salta,2021,15,Dengue,9,De 35 a 44 anos,1
+728,66056,Grl. José de San Martín,66,Salta,2021,16,Dengue,9,De 35 a 44 anos,3
+729,66056,Grl. José de San Martín,66,Salta,2021,17,Dengue,9,De 35 a 44 anos,1
+730,66056,Grl. José de San Martín,66,Salta,2021,18,Dengue,9,De 35 a 44 anos,2
+731,66056,Grl. José de San Martín,66,Salta,2021,20,Dengue,9,De 35 a 44 anos,1
+732,66056,Grl. José de San Martín,66,Salta,2021,21,Dengue,9,De 35 a 44 anos,1
+733,66126,Orán,66,Salta,2021,3,Dengue,9,De 35 a 44 anos,2
+734,66126,Orán,66,Salta,2021,4,Dengue,9,De 35 a 44 anos,5
+735,66126,Orán,66,Salta,2021,5,Dengue,9,De 35 a 44 anos,6
+736,66126,Orán,66,Salta,2021,6,Dengue,9,De 35 a 44 anos,2
+737,66126,Orán,66,Salta,2021,7,Dengue,9,De 35 a 44 anos,4
+738,66126,Orán,66,Salta,2021,8,Dengue,9,De 35 a 44 anos,4
+739,66126,Orán,66,Salta,2021,9,Dengue,9,De 35 a 44 anos,4
+740,66126,Orán,66,Salta,2021,10,Dengue,9,De 35 a 44 anos,1
+741,66126,Orán,66,Salta,2021,11,Dengue,9,De 35 a 44 anos,5
+742,66126,Orán,66,Salta,2021,12,Dengue,9,De 35 a 44 anos,10
+743,66126,Orán,66,Salta,2021,13,Dengue,9,De 35 a 44 anos,8
+744,66126,Orán,66,Salta,2021,14,Dengue,9,De 35 a 44 anos,6
+745,66126,Orán,66,Salta,2021,15,Dengue,9,De 35 a 44 anos,15
+746,66126,Orán,66,Salta,2021,16,Dengue,9,De 35 a 44 anos,19
+747,66126,Orán,66,Salta,2021,17,Dengue,9,De 35 a 44 anos,14
+748,66126,Orán,66,Salta,2021,18,Dengue,9,De 35 a 44 anos,15
+749,66126,Orán,66,Salta,2021,19,Dengue,9,De 35 a 44 anos,12
+750,66126,Orán,66,Salta,2021,20,Dengue,9,De 35 a 44 anos,4
+751,66126,Orán,66,Salta,2021,21,Dengue,9,De 35 a 44 anos,3
+752,66126,Orán,66,Salta,2021,22,Dengue,9,De 35 a 44 anos,4
+753,66126,Orán,66,Salta,2021,23,Dengue,9,De 35 a 44 anos,4
+754,66133,Rivadavia,66,Salta,2021,11,Dengue,9,De 35 a 44 anos,1
+755,66133,Rivadavia,66,Salta,2021,14,Dengue,9,De 35 a 44 anos,1
+756,66133,Rivadavia,66,Salta,2021,15,Dengue,9,De 35 a 44 anos,1
+757,66133,Rivadavia,66,Salta,2021,16,Dengue,9,De 35 a 44 anos,3
+758,66133,Rivadavia,66,Salta,2021,17,Dengue,9,De 35 a 44 anos,3
+759,66133,Rivadavia,66,Salta,2021,18,Dengue,9,De 35 a 44 anos,7
+760,66133,Rivadavia,66,Salta,2021,19,Dengue,9,De 35 a 44 anos,1
+761,66133,Rivadavia,66,Salta,2021,20,Dengue,9,De 35 a 44 anos,1
+762,66133,Rivadavia,66,Salta,2021,21,Dengue,9,De 35 a 44 anos,1
+763,66133,Rivadavia,66,Salta,2021,22,Dengue,9,De 35 a 44 anos,2
+764,82084,Rosario,82,Santa Fe,2021,1,Dengue,9,De 35 a 44 anos,1
+765,82084,Rosario,82,Santa Fe,2021,17,Dengue,9,De 35 a 44 anos,1
+766,82091,San Cristóbal,82,Santa Fe,2021,14,Dengue,9,De 35 a 44 anos,2
+767,82091,San Cristóbal,82,Santa Fe,2021,15,Dengue,9,De 35 a 44 anos,1
+768,90084,Capital,90,Tucumán,2021,8,Dengue,9,De 35 a 44 anos,1
+769,90084,Capital,90,Tucumán,2021,10,Dengue,9,De 35 a 44 anos,1
+770,90084,Capital,90,Tucumán,2021,16,Dengue,9,De 35 a 44 anos,1
+771,90084,Capital,90,Tucumán,2021,17,Dengue,9,De 35 a 44 anos,1
+772,90084,Capital,90,Tucumán,2021,24,Dengue,9,De 35 a 44 anos,1
+773,66091,Berazategui,6,Buenos Aires,2021,10,Dengue,10,De 45 a 65 anos,1
+774,66091,Berazategui,6,Buenos Aires,2021,15,Dengue,10,De 45 a 65 anos,1
+775,66756,San Isidro,6,Buenos Aires,2021,14,Dengue,10,De 45 a 65 anos,1
+776,10070,La Paz,10,Catamarca,2021,17,Dengue,10,De 45 a 65 anos,1
+777,14007,Calamuchita,14,Córdoba,2021,15,Dengue,10,De 45 a 65 anos,1
+778,18021,Capital,18,Corrientes,2021,14,Dengue,10,De 45 a 65 anos,1
+779,18021,Capital,18,Corrientes,2021,16,Dengue,10,De 45 a 65 anos,1
+780,18168,Santo Tomé,18,Corrientes,2021,15,Dengue,10,De 45 a 65 anos,1
+781,30028,Federación,30,Entre Ríos,2021,13,Dengue,10,De 45 a 65 anos,2
+782,30028,Federación,30,Entre Ríos,2021,16,Dengue,10,De 45 a 65 anos,2
+783,30028,Federación,30,Entre Ríos,2021,17,Dengue,10,De 45 a 65 anos,1
+784,34014,Formosa,34,Formosa,2021,5,Dengue,10,De 45 a 65 anos,1
+785,34035,Patiño,34,Formosa,2021,1,Dengue,10,De 45 a 65 anos,1
+786,34035,Patiño,34,Formosa,2021,2,Dengue,10,De 45 a 65 anos,1
+787,34035,Patiño,34,Formosa,2021,3,Dengue,10,De 45 a 65 anos,5
+788,34035,Patiño,34,Formosa,2021,4,Dengue,10,De 45 a 65 anos,2
+789,34035,Patiño,34,Formosa,2021,5,Dengue,10,De 45 a 65 anos,6
+790,34035,Patiño,34,Formosa,2021,6,Dengue,10,De 45 a 65 anos,25
+791,34035,Patiño,34,Formosa,2021,7,Dengue,10,De 45 a 65 anos,9
+792,34035,Patiño,34,Formosa,2021,8,Dengue,10,De 45 a 65 anos,7
+793,34035,Patiño,34,Formosa,2021,9,Dengue,10,De 45 a 65 anos,1
+794,34035,Patiño,34,Formosa,2021,10,Dengue,10,De 45 a 65 anos,9
+795,34035,Patiño,34,Formosa,2021,11,Dengue,10,De 45 a 65 anos,2
+796,34035,Patiño,34,Formosa,2021,12,Dengue,10,De 45 a 65 anos,1
+797,34035,Patiño,34,Formosa,2021,17,Dengue,10,De 45 a 65 anos,1
+798,38014,El Carmen,38,Jujuy,2021,13,Dengue,10,De 45 a 65 anos,1
+799,38035,Ledesma,38,Jujuy,2021,9,Dengue,10,De 45 a 65 anos,1
+800,38035,Ledesma,38,Jujuy,2021,10,Dengue,10,De 45 a 65 anos,1
+801,38035,Ledesma,38,Jujuy,2021,11,Dengue,10,De 45 a 65 anos,2
+802,38035,Ledesma,38,Jujuy,2021,12,Dengue,10,De 45 a 65 anos,1
+803,38035,Ledesma,38,Jujuy,2021,13,Dengue,10,De 45 a 65 anos,5
+804,38035,Ledesma,38,Jujuy,2021,14,Dengue,10,De 45 a 65 anos,3
+805,38035,Ledesma,38,Jujuy,2021,15,Dengue,10,De 45 a 65 anos,4
+806,38035,Ledesma,38,Jujuy,2021,16,Dengue,10,De 45 a 65 anos,8
+807,38035,Ledesma,38,Jujuy,2021,17,Dengue,10,De 45 a 65 anos,11
+808,38035,Ledesma,38,Jujuy,2021,18,Dengue,10,De 45 a 65 anos,4
+809,38035,Ledesma,38,Jujuy,2021,19,Dengue,10,De 45 a 65 anos,4
+810,38035,Ledesma,38,Jujuy,2021,20,Dengue,10,De 45 a 65 anos,2
+811,38035,Ledesma,38,Jujuy,2021,21,Dengue,10,De 45 a 65 anos,2
+812,38035,Ledesma,38,Jujuy,2021,23,Dengue,10,De 45 a 65 anos,2
+813,38035,Ledesma,38,Jujuy,2021,24,Dengue,10,De 45 a 65 anos,1
+814,38070,Santa Bárbara,38,Jujuy,2021,15,Dengue,10,De 45 a 65 anos,1
+815,38070,Santa Bárbara,38,Jujuy,2021,16,Dengue,10,De 45 a 65 anos,3
+816,38070,Santa Bárbara,38,Jujuy,2021,17,Dengue,10,De 45 a 65 anos,1
+817,38070,Santa Bárbara,38,Jujuy,2021,18,Dengue,10,De 45 a 65 anos,3
+818,38070,Santa Bárbara,38,Jujuy,2021,20,Dengue,10,De 45 a 65 anos,3
+819,38070,Santa Bárbara,38,Jujuy,2021,21,Dengue,10,De 45 a 65 anos,1
+820,38070,Santa Bárbara,38,Jujuy,2021,23,Dengue,10,De 45 a 65 anos,1
+821,38070,Santa Bárbara,38,Jujuy,2021,24,Dengue,10,De 45 a 65 anos,1
+822,46014,Capital,46,La Rioja,2021,3,Dengue,10,De 45 a 65 anos,1
+823,46014,Capital,46,La Rioja,2021,4,Dengue,10,De 45 a 65 anos,1
+824,46014,Capital,46,La Rioja,2021,6,Dengue,10,De 45 a 65 anos,4
+825,46014,Capital,46,La Rioja,2021,7,Dengue,10,De 45 a 65 anos,5
+826,46014,Capital,46,La Rioja,2021,8,Dengue,10,De 45 a 65 anos,3
+827,46014,Capital,46,La Rioja,2021,9,Dengue,10,De 45 a 65 anos,10
+828,46014,Capital,46,La Rioja,2021,10,Dengue,10,De 45 a 65 anos,10
+829,46014,Capital,46,La Rioja,2021,11,Dengue,10,De 45 a 65 anos,16
+830,46014,Capital,46,La Rioja,2021,12,Dengue,10,De 45 a 65 anos,18
+831,46014,Capital,46,La Rioja,2021,13,Dengue,10,De 45 a 65 anos,11
+832,46014,Capital,46,La Rioja,2021,14,Dengue,10,De 45 a 65 anos,11
+833,46014,Capital,46,La Rioja,2021,15,Dengue,10,De 45 a 65 anos,25
+834,46014,Capital,46,La Rioja,2021,16,Dengue,10,De 45 a 65 anos,33
+835,46014,Capital,46,La Rioja,2021,17,Dengue,10,De 45 a 65 anos,27
+836,46014,Capital,46,La Rioja,2021,18,Dengue,10,De 45 a 65 anos,22
+837,46014,Capital,46,La Rioja,2021,19,Dengue,10,De 45 a 65 anos,15
+838,46014,Capital,46,La Rioja,2021,20,Dengue,10,De 45 a 65 anos,9
+839,46014,Capital,46,La Rioja,2021,21,Dengue,10,De 45 a 65 anos,4
+840,46014,Capital,46,La Rioja,2021,22,Dengue,10,De 45 a 65 anos,1
+841,46035,Chamical,46,La Rioja,2021,4,Dengue,10,De 45 a 65 anos,1
+842,46056,General Angel V. Peñaloza,46,La Rioja,2021,10,Dengue,10,De 45 a 65 anos,1
+843,54028,Capital,54,Misiones,2021,2,Dengue,10,De 45 a 65 anos,1
+844,54028,Capital,54,Misiones,2021,8,Dengue,10,De 45 a 65 anos,1
+845,54028,Capital,54,Misiones,2021,9,Dengue,10,De 45 a 65 anos,1
+846,54028,Capital,54,Misiones,2021,10,Dengue,10,De 45 a 65 anos,1
+847,54028,Capital,54,Misiones,2021,11,Dengue,10,De 45 a 65 anos,1
+848,54028,Capital,54,Misiones,2021,17,Dengue,10,De 45 a 65 anos,1
+849,54035,Concepción,54,Misiones,2021,10,Dengue,10,De 45 a 65 anos,1
+850,54063,Iguazú,54,Misiones,2021,18,Dengue,10,De 45 a 65 anos,1
+851,66007,Anta,66,Salta,2021,11,Dengue,10,De 45 a 65 anos,2
+852,66007,Anta,66,Salta,2021,12,Dengue,10,De 45 a 65 anos,3
+853,66007,Anta,66,Salta,2021,13,Dengue,10,De 45 a 65 anos,3
+854,66007,Anta,66,Salta,2021,14,Dengue,10,De 45 a 65 anos,4
+855,66007,Anta,66,Salta,2021,15,Dengue,10,De 45 a 65 anos,3
+856,66007,Anta,66,Salta,2021,16,Dengue,10,De 45 a 65 anos,4
+857,66007,Anta,66,Salta,2021,17,Dengue,10,De 45 a 65 anos,3
+858,66007,Anta,66,Salta,2021,18,Dengue,10,De 45 a 65 anos,2
+859,66007,Anta,66,Salta,2021,20,Dengue,10,De 45 a 65 anos,1
+860,66007,Anta,66,Salta,2021,21,Dengue,10,De 45 a 65 anos,1
+861,66007,Anta,66,Salta,2021,22,Dengue,10,De 45 a 65 anos,1
+862,66028,Capital,66,Salta,2021,7,Dengue,10,De 45 a 65 anos,1
+863,66028,Capital,66,Salta,2021,13,Dengue,10,De 45 a 65 anos,2
+864,66035,Cerrillos,66,Salta,2021,10,Dengue,10,De 45 a 65 anos,1
+865,66056,Grl. José de San Martín,66,Salta,2021,6,Dengue,10,De 45 a 65 anos,1
+866,66056,Grl. José de San Martín,66,Salta,2021,7,Dengue,10,De 45 a 65 anos,4
+867,66056,Grl. José de San Martín,66,Salta,2021,8,Dengue,10,De 45 a 65 anos,10
+868,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,10,De 45 a 65 anos,15
+869,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,10,De 45 a 65 anos,6
+870,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,10,De 45 a 65 anos,14
+871,66056,Grl. José de San Martín,66,Salta,2021,12,Dengue,10,De 45 a 65 anos,1
+872,66056,Grl. José de San Martín,66,Salta,2021,13,Dengue,10,De 45 a 65 anos,1
+873,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,10,De 45 a 65 anos,6
+874,66056,Grl. José de San Martín,66,Salta,2021,16,Dengue,10,De 45 a 65 anos,3
+875,66056,Grl. José de San Martín,66,Salta,2021,17,Dengue,10,De 45 a 65 anos,1
+876,66056,Grl. José de San Martín,66,Salta,2021,19,Dengue,10,De 45 a 65 anos,2
+877,66126,Orán,66,Salta,2021,2,Dengue,10,De 45 a 65 anos,3
+878,66126,Orán,66,Salta,2021,3,Dengue,10,De 45 a 65 anos,3
+879,66126,Orán,66,Salta,2021,4,Dengue,10,De 45 a 65 anos,4
+880,66126,Orán,66,Salta,2021,5,Dengue,10,De 45 a 65 anos,9
+881,66126,Orán,66,Salta,2021,6,Dengue,10,De 45 a 65 anos,2
+882,66126,Orán,66,Salta,2021,7,Dengue,10,De 45 a 65 anos,8
+883,66126,Orán,66,Salta,2021,8,Dengue,10,De 45 a 65 anos,12
+884,66126,Orán,66,Salta,2021,9,Dengue,10,De 45 a 65 anos,3
+885,66126,Orán,66,Salta,2021,10,Dengue,10,De 45 a 65 anos,9
+886,66126,Orán,66,Salta,2021,11,Dengue,10,De 45 a 65 anos,11
+887,66126,Orán,66,Salta,2021,12,Dengue,10,De 45 a 65 anos,7
+888,66126,Orán,66,Salta,2021,13,Dengue,10,De 45 a 65 anos,10
+889,66126,Orán,66,Salta,2021,14,Dengue,10,De 45 a 65 anos,10
+890,66126,Orán,66,Salta,2021,15,Dengue,10,De 45 a 65 anos,21
+891,66126,Orán,66,Salta,2021,16,Dengue,10,De 45 a 65 anos,16
+892,66126,Orán,66,Salta,2021,17,Dengue,10,De 45 a 65 anos,27
+893,66126,Orán,66,Salta,2021,18,Dengue,10,De 45 a 65 anos,24
+894,66126,Orán,66,Salta,2021,19,Dengue,10,De 45 a 65 anos,8
+895,66126,Orán,66,Salta,2021,20,Dengue,10,De 45 a 65 anos,4
+896,66126,Orán,66,Salta,2021,21,Dengue,10,De 45 a 65 anos,2
+897,66126,Orán,66,Salta,2021,22,Dengue,10,De 45 a 65 anos,7
+898,66126,Orán,66,Salta,2021,25,Dengue,10,De 45 a 65 anos,1
+899,66133,Rivadavia,66,Salta,2021,15,Dengue,10,De 45 a 65 anos,1
+900,66133,Rivadavia,66,Salta,2021,17,Dengue,10,De 45 a 65 anos,6
+901,66133,Rivadavia,66,Salta,2021,18,Dengue,10,De 45 a 65 anos,1
+902,66133,Rivadavia,66,Salta,2021,19,Dengue,10,De 45 a 65 anos,1
+903,66133,Rivadavia,66,Salta,2021,21,Dengue,10,De 45 a 65 anos,1
+904,66133,Rivadavia,66,Salta,2021,24,Dengue,10,De 45 a 65 anos,4
+905,82084,Rosario,82,Santa Fe,2021,18,Dengue,10,De 45 a 65 anos,1
+906,82091,San Cristóbal,82,Santa Fe,2021,15,Dengue,10,De 45 a 65 anos,2
+907,82091,San Cristóbal,82,Santa Fe,2021,16,Dengue,10,De 45 a 65 anos,1
+908,82091,San Cristóbal,82,Santa Fe,2021,17,Dengue,10,De 45 a 65 anos,4
+909,82091,San Cristóbal,82,Santa Fe,2021,18,Dengue,10,De 45 a 65 anos,1
+910,82091,San Cristóbal,82,Santa Fe,2021,23,Dengue,10,De 45 a 65 anos,1
+911,90084,Capital,90,Tucumán,2021,16,Dengue,10,De 45 a 65 anos,1
+912,90084,Capital,90,Tucumán,2021,18,Dengue,10,De 45 a 65 anos,1
+913,90084,Capital,90,Tucumán,2021,19,Dengue,10,De 45 a 65 anos,1
+914,90084,Capital,90,Tucumán,2021,20,Dengue,10,De 45 a 65 anos,1
+915,90084,Capital,90,Tucumán,2021,22,Dengue,10,De 45 a 65 anos,1
+916,90105,Tafí Viejo,90,Tucumán,2021,16,Dengue,10,De 45 a 65 anos,1
+917,18168,Santo Tomé,18,Corrientes,2021,15,Dengue,11,Mayores de 65 anos,1
+918,34035,Patiño,34,Formosa,2021,1,Dengue,11,Mayores de 65 anos,2
+919,34035,Patiño,34,Formosa,2021,3,Dengue,11,Mayores de 65 anos,2
+920,34035,Patiño,34,Formosa,2021,4,Dengue,11,Mayores de 65 anos,3
+921,34035,Patiño,34,Formosa,2021,5,Dengue,11,Mayores de 65 anos,12
+922,34035,Patiño,34,Formosa,2021,6,Dengue,11,Mayores de 65 anos,12
+923,34035,Patiño,34,Formosa,2021,7,Dengue,11,Mayores de 65 anos,6
+924,34035,Patiño,34,Formosa,2021,8,Dengue,11,Mayores de 65 anos,5
+925,34035,Patiño,34,Formosa,2021,9,Dengue,11,Mayores de 65 anos,2
+926,34035,Patiño,34,Formosa,2021,10,Dengue,11,Mayores de 65 anos,8
+927,34035,Patiño,34,Formosa,2021,13,Dengue,11,Mayores de 65 anos,1
+928,34035,Patiño,34,Formosa,2021,53,Dengue,11,Mayores de 65 anos,1
+929,38014,El Carmen,38,Jujuy,2021,12,Dengue,11,Mayores de 65 anos,1
+930,38035,Ledesma,38,Jujuy,2021,16,Dengue,11,Mayores de 65 anos,1
+931,38035,Ledesma,38,Jujuy,2021,18,Dengue,11,Mayores de 65 anos,1
+932,38035,Ledesma,38,Jujuy,2021,19,Dengue,11,Mayores de 65 anos,3
+933,38035,Ledesma,38,Jujuy,2021,20,Dengue,11,Mayores de 65 anos,1
+934,38035,Ledesma,38,Jujuy,2021,22,Dengue,11,Mayores de 65 anos,1
+935,38070,Santa Bárbara,38,Jujuy,2021,16,Dengue,11,Mayores de 65 anos,2
+936,38070,Santa Bárbara,38,Jujuy,2021,18,Dengue,11,Mayores de 65 anos,2
+937,46014,Capital,46,La Rioja,2021,7,Dengue,11,Mayores de 65 anos,1
+938,46014,Capital,46,La Rioja,2021,9,Dengue,11,Mayores de 65 anos,1
+939,46014,Capital,46,La Rioja,2021,10,Dengue,11,Mayores de 65 anos,3
+940,46014,Capital,46,La Rioja,2021,11,Dengue,11,Mayores de 65 anos,3
+941,46014,Capital,46,La Rioja,2021,12,Dengue,11,Mayores de 65 anos,8
+942,46014,Capital,46,La Rioja,2021,13,Dengue,11,Mayores de 65 anos,3
+943,46014,Capital,46,La Rioja,2021,14,Dengue,11,Mayores de 65 anos,6
+944,46014,Capital,46,La Rioja,2021,15,Dengue,11,Mayores de 65 anos,11
+945,46014,Capital,46,La Rioja,2021,16,Dengue,11,Mayores de 65 anos,1
+946,46014,Capital,46,La Rioja,2021,17,Dengue,11,Mayores de 65 anos,1
+947,46014,Capital,46,La Rioja,2021,18,Dengue,11,Mayores de 65 anos,5
+948,46014,Capital,46,La Rioja,2021,19,Dengue,11,Mayores de 65 anos,4
+949,46014,Capital,46,La Rioja,2021,21,Dengue,11,Mayores de 65 anos,1
+950,46056,General Angel V. Peñaloza,46,La Rioja,2021,11,Dengue,11,Mayores de 65 anos,1
+951,46063,General Belgrano,46,La Rioja,2021,15,Dengue,11,Mayores de 65 anos,1
+952,46070,General Juan F. Quiroga,46,La Rioja,2021,14,Dengue,11,Mayores de 65 anos,1
+953,54028,Capital,54,Misiones,2021,11,Dengue,11,Mayores de 65 anos,1
+954,54028,Capital,54,Misiones,2021,17,Dengue,11,Mayores de 65 anos,1
+955,54028,Capital,54,Misiones,2021,18,Dengue,11,Mayores de 65 anos,1
+956,54098,San Ignacio,54,Misiones,2021,15,Dengue,11,Mayores de 65 anos,1
+957,66007,Anta,66,Salta,2021,14,Dengue,11,Mayores de 65 anos,1
+958,66007,Anta,66,Salta,2021,21,Dengue,11,Mayores de 65 anos,1
+959,66028,Capital,66,Salta,2021,12,Dengue,11,Mayores de 65 anos,1
+960,66056,Grl. José de San Martín,66,Salta,2021,7,Dengue,11,Mayores de 65 anos,1
+961,66056,Grl. José de San Martín,66,Salta,2021,8,Dengue,11,Mayores de 65 anos,1
+962,66056,Grl. José de San Martín,66,Salta,2021,9,Dengue,11,Mayores de 65 anos,5
+963,66056,Grl. José de San Martín,66,Salta,2021,10,Dengue,11,Mayores de 65 anos,2
+964,66056,Grl. José de San Martín,66,Salta,2021,11,Dengue,11,Mayores de 65 anos,3
+965,66056,Grl. José de San Martín,66,Salta,2021,12,Dengue,11,Mayores de 65 anos,2
+966,66056,Grl. José de San Martín,66,Salta,2021,14,Dengue,11,Mayores de 65 anos,2
+967,66126,Orán,66,Salta,2021,4,Dengue,11,Mayores de 65 anos,1
+968,66126,Orán,66,Salta,2021,5,Dengue,11,Mayores de 65 anos,3
+969,66126,Orán,66,Salta,2021,7,Dengue,11,Mayores de 65 anos,1
+970,66126,Orán,66,Salta,2021,8,Dengue,11,Mayores de 65 anos,2
+971,66126,Orán,66,Salta,2021,9,Dengue,11,Mayores de 65 anos,2
+972,66126,Orán,66,Salta,2021,10,Dengue,11,Mayores de 65 anos,5
+973,66126,Orán,66,Salta,2021,11,Dengue,11,Mayores de 65 anos,4
+974,66126,Orán,66,Salta,2021,13,Dengue,11,Mayores de 65 anos,2
+975,66126,Orán,66,Salta,2021,14,Dengue,11,Mayores de 65 anos,1
+976,66126,Orán,66,Salta,2021,15,Dengue,11,Mayores de 65 anos,7
+977,66126,Orán,66,Salta,2021,16,Dengue,11,Mayores de 65 anos,2
+978,66126,Orán,66,Salta,2021,17,Dengue,11,Mayores de 65 anos,11
+979,66126,Orán,66,Salta,2021,18,Dengue,11,Mayores de 65 anos,5
+980,66126,Orán,66,Salta,2021,19,Dengue,11,Mayores de 65 anos,1
+981,66126,Orán,66,Salta,2021,20,Dengue,11,Mayores de 65 anos,1
+982,66126,Orán,66,Salta,2021,21,Dengue,11,Mayores de 65 anos,3
+983,66126,Orán,66,Salta,2021,23,Dengue,11,Mayores de 65 anos,1
+984,66133,Rivadavia,66,Salta,2021,11,Dengue,11,Mayores de 65 anos,2
+985,66133,Rivadavia,66,Salta,2021,15,Dengue,11,Mayores de 65 anos,1
+986,66133,Rivadavia,66,Salta,2021,16,Dengue,11,Mayores de 65 anos,1
+987,66133,Rivadavia,66,Salta,2021,17,Dengue,11,Mayores de 65 anos,2
+988,66133,Rivadavia,66,Salta,2021,18,Dengue,11,Mayores de 65 anos,1
+989,66133,Rivadavia,66,Salta,2021,22,Dengue,11,Mayores de 65 anos,1
+990,82091,San Cristóbal,82,Santa Fe,2021,17,Dengue,11,Mayores de 65 anos,2
+991,82091,San Cristóbal,82,Santa Fe,2021,18,Dengue,11,Mayores de 65 anos,1
+992,82091,San Cristóbal,82,Santa Fe,2021,20,Dengue,11,Mayores de 65 anos,1
+993,90084,Capital,90,Tucumán,2021,18,Dengue,11,Mayores de 65 anos,1
+994,90084,Capital,90,Tucumán,2021,19,Dengue,11,Mayores de 65 anos,1
+995,66007,Anta,66,Salta,2021,10,Dengue,1,Posneonato (29 hasta 365 dias),1
+996,66007,Anta,66,Salta,2021,10,Dengue,3,De 2 a 4 anos,1
+997,66007,Anta,66,Salta,2021,10,Dengue,5,De 10 a 14 anos,1
+998,66007,Anta,66,Salta,2021,10,Dengue,8,De 25 a 34 anos,2
+999,66007,Anta,66,Salta,2021,10,Dengue,9,De 35 a 44 anos,2
+1000,66007,Anta,66,Salta,2021,10,Dengue,10,De 45 a 64 anos,1
